@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # 5-Day Gen AI Intensive Course With Google
 
 This file contains e-mails from Google for registrants.
