@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 # 5-Day Gen AI Intensive Course With Google
