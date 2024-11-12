@@ -1,6 +1,6 @@
 # 5-Day Gen AI Intensive Course With Google
 
-This file contains e-mails from Google for registants.
+This file contains e-mails from Google for registrants.
 
 Source [link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive), [YT playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
 
@@ -27,7 +27,7 @@ Today you’ll explore the evolution of LLMs, from transformers to techniques li
 
 The code lab will walk you through getting started with the Gemini API and cover several prompt techniques and how different parameters impact the prompts.
 
-[![Live Stream](https://i.ytimg.com/vi/kpRyiJUUFxY/hqdefault.jpg)](https://www.youtube.com/watch?v=dnGuDNhD3Ag)
+[![Live Stream](https://i.ytimg.com/vi/kpRyiJUUFxY/hqdefault.jpg)](https://www.youtube.com/watch?v=kpRyiJUUFxY)
 
 **📋 Reminders**
 
