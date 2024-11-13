@@ -26,34 +26,33 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 [![Live Stream](https://i.ytimg.com/vi/kpRyiJUUFxY/hqdefault.jpg)](https://www.youtube.com/watch?v=kpRyiJUUFxY)
 
-> [!summary]-
-> Overview:
-> 
-> - The course, delivered virtually from November 11–15, focuses on generative AI, covering topics like foundational models, prompt engineering, embeddings, vector databases, AI agents, domain-specific models, and MLOps.
-> - Participants engage through daily assignments, code labs, white papers, and live Q&A sessions, with discussions facilitated via a Discord channel.
-> 
-> Day 1 Key Highlights:
-> 
-> 1. **Foundational Models and Prompt Engineering:**
->    - Discussion on training methods for large language models (LLMs) using techniques such as supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
->    - RLHF uses reward models and human feedback to refine and align models with user preferences.
-> 2. **Technical Advances and Tools:**
->    - **Google’s Gemini Models**: Feature 2M token context windows and multimodal capabilities. 
->    - **Flash Models**: Focus on high performance and cost efficiency, making generative AI more accessible.
->    - **OpenAI API Compatibility**: Simplifies transition between platforms, enabling developers to compare models effortlessly.
-> 3. **Generative AI Applications:**
->    - Applications of LLMs in multimodal output, reinforcement learning, and productization.
->    - Practical uses include video creation from text documents and enhanced coding workflows.
-> 4. **Evaluation Techniques:**
->    - Classical metrics like BLEU and ROUGE for textual outputs.
->    - Modern approaches like using LLMs themselves as evaluators (auto-rating).
->    - The importance of test-time reasoning and search capabilities for model outputs.
-> 5. **Code Labs and Prompting Techniques:**
->    - Demonstrated examples of zero-shot, few-shot, and chain-of-thought prompting.
->    - Introduced advanced response customization techniques, such as temperature tuning and structured JSON outputs.
->    - Interactive tools like the React Framework for multi-step tasks.
-> 6. **Pop Quiz Recap:**
->    - Reinforced core concepts, such as temperature affecting randomness in token prediction, RLHF's role in improving model alignment, and Chain of Thought prompting enhancing reasoning abilities.
+<details>
+<summary>Summary by gpt-4o</summary>
+Overview:
+- The course, delivered virtually from November 11–15, focuses on generative AI, covering topics like foundational models, prompt engineering, embeddings, vector databases, AI agents, domain-specific models, and MLOps.
+- Participants engage through daily assignments, code labs, white papers, and live Q&A sessions, with discussions facilitated via a Discord channel.
+Day 1 Key Highlights:
+1. **Foundational Models and Prompt Engineering:**
+   - Discussion on training methods for large language models (LLMs) using techniques such as supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
+   - RLHF uses reward models and human feedback to refine and align models with user preferences.
+2. **Technical Advances and Tools:**
+   - **Google’s Gemini Models**: Feature 2M token context windows and multimodal capabilities. 
+   - **Flash Models**: Focus on high performance and cost efficiency, making generative AI more accessible.
+   - **OpenAI API Compatibility**: Simplifies transition between platforms, enabling developers to compare models effortlessly.
+3. **Generative AI Applications:**
+   - Applications of LLMs in multimodal output, reinforcement learning, and productization.
+   - Practical uses include video creation from text documents and enhanced coding workflows.
+4. **Evaluation Techniques:**
+   - Classical metrics like BLEU and ROUGE for textual outputs.
+   - Modern approaches like using LLMs themselves as evaluators (auto-rating).
+   - The importance of test-time reasoning and search capabilities for model outputs.
+5. **Code Labs and Prompting Techniques:**
+   - Demonstrated examples of zero-shot, few-shot, and chain-of-thought prompting.
+   - Introduced advanced response customization techniques, such as temperature tuning and structured JSON outputs.
+   - Interactive tools like the React Framework for multi-step tasks.
+6. **Pop Quiz Recap:**
+   - Reinforced core concepts, such as temperature affecting randomness in token prediction, RLHF's role in improving model alignment, and Chain of Thought prompting enhancing reasoning abilities.
+</details>
 
 ## Day 2 Embeddings and Vector Stores/Databases
 
