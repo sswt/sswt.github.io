@@ -1,6 +1,6 @@
 # 5-Day Gen AI Intensive Course With Google
 
-This file contains e-mails from Google for registrants.
+Here are the contents of the emails from kaggle to those who registered for the course.
 
 Source [link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive), [YT playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
 ## Day 1 Foundation models and prompt engineering
@@ -26,11 +26,34 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 [![Live Stream](https://i.ytimg.com/vi/kpRyiJUUFxY/hqdefault.jpg)](https://www.youtube.com/watch?v=kpRyiJUUFxY)
 
-**📋 Reminders**
-
-- Discord is the best place to ask questions – specifically in the [#5dgai-q-and-a](https://discord.com/invite/gNrC9Xut) channel. In addition to other participants, several Googlers are there to help. During the livestream, we'll also pick several questions from Discord to discuss. You'll get Kaggle swag if your question is chosen!
-- We created a new channel in Discord called [#5dgai-announcements](https://discord.com/invite/RnVCPgX5) that will be used exclusively for course announcements from us.
-- We want this course community to be positive and supportive. Please follow Kaggle’s community guidelines found [here](https://www.kaggle.com/community-guidelines).
+> [!summary]-
+> Overview:
+> 
+> - The course, delivered virtually from November 11–15, focuses on generative AI, covering topics like foundational models, prompt engineering, embeddings, vector databases, AI agents, domain-specific models, and MLOps.
+> - Participants engage through daily assignments, code labs, white papers, and live Q&A sessions, with discussions facilitated via a Discord channel.
+> 
+> Day 1 Key Highlights:
+> 
+> 1. **Foundational Models and Prompt Engineering:**
+>    - Discussion on training methods for large language models (LLMs) using techniques such as supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
+>    - RLHF uses reward models and human feedback to refine and align models with user preferences.
+> 2. **Technical Advances and Tools:**
+>    - **Google’s Gemini Models**: Feature 2M token context windows and multimodal capabilities. 
+>    - **Flash Models**: Focus on high performance and cost efficiency, making generative AI more accessible.
+>    - **OpenAI API Compatibility**: Simplifies transition between platforms, enabling developers to compare models effortlessly.
+> 3. **Generative AI Applications:**
+>    - Applications of LLMs in multimodal output, reinforcement learning, and productization.
+>    - Practical uses include video creation from text documents and enhanced coding workflows.
+> 4. **Evaluation Techniques:**
+>    - Classical metrics like BLEU and ROUGE for textual outputs.
+>    - Modern approaches like using LLMs themselves as evaluators (auto-rating).
+>    - The importance of test-time reasoning and search capabilities for model outputs.
+> 5. **Code Labs and Prompting Techniques:**
+>    - Demonstrated examples of zero-shot, few-shot, and chain-of-thought prompting.
+>    - Introduced advanced response customization techniques, such as temperature tuning and structured JSON outputs.
+>    - Interactive tools like the React Framework for multi-step tasks.
+> 6. **Pop Quiz Recap:**
+>    - Reinforced core concepts, such as temperature affecting randomness in token prediction, RLHF's role in improving model alignment, and Chain of Thought prompting enhancing reasoning abilities.
 
 ## Day 2 Embeddings and Vector Stores/Databases
 
@@ -39,7 +62,7 @@ The code lab will walk you through getting started with the Gemini API and cover
 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 
 -  [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=1CC39K76Nqs) for this unit (created by NotebookLM).
-- Read the [“Embeddings and Vector Stores/Databases” whitepaper](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores).
+- Read the [“Embeddings and Vector Stores/Databases” whitepaper](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)(52 pages).
 - Complete these code labs on Kaggle: 
     1. [Build](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag) a RAG question-answering system over custom documents
     2. [Explore](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores) text similarity with embeddings
@@ -49,6 +72,12 @@ Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 
 Today you will learn about the conceptual underpinning of embeddings and vector databases and how they can be used to bring live or specialist data into your LLM application. You’ll also explore their geometrical powers for classifying and comparing textual data. 
 
- **📋 Reminders and Announcements**
+[![Live Stream](https://i.ytimg.com/vi/86GZC56rQCc/hqdefault.jpg)](https://www.youtube.com/watch?v=86GZC56rQCc)
 
-- Be sure to ask all your questions about the podcast, readings, and code lab in the [#5dgai-q-and-a](https://discord.com/invite/gNrC9Xut) channel on Discord. You'll get Kaggle swag if your question is chosen for discussion during the livestream!
+---
+
+**📋 Reminders**
+
+- Discord is the best place to ask questions – specifically in the [#5dgai-q-and-a](https://discord.com/invite/gNrC9Xut) channel.
+- We created a new channel in Discord called [#5dgai-announcements](https://discord.com/invite/RnVCPgX5) that will be used exclusively for course announcements from us.
+- We want this course community to be positive and supportive. Please follow Kaggle’s community guidelines found [here](https://www.kaggle.com/community-guidelines).
