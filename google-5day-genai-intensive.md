@@ -26,36 +26,47 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 [![Live Stream](https://i.ytimg.com/vi/kpRyiJUUFxY/hqdefault.jpg)](https://www.youtube.com/watch?v=kpRyiJUUFxY)
 
+Chapters:
+
+- [00:48 Course overview](https://www.youtube.com/watch?v=kpRyiJUUFxY&t=48s)
+- [04:20 Q&A with experts](https://www.youtube.com/watch?v=kpRyiJUUFxY&t=260s)
+- [35:10 Code Labs and Demos](https://www.youtube.com/watch?v=kpRyiJUUFxY&t=2110s) 
+- [54:29 Pop Quiz](https://www.youtube.com/watch?v=kpRyiJUUFxY&t=3269s)
+
 <details>
-<summary>Summary by gpt-4o</summary>
+<summary>Questions and short version of answers</summary>
 <pre>
-Overview:
+Q: "Which features are you most excited about? Which ones have already launched or are about to launch?"
+A: - Google search grounding
+   - OpenAI compatibility in SDK to quick switch to Gemini
 
-- The course, delivered virtually from November 11–15, focuses on generative AI, covering topics like foundational models, prompt engineering, embeddings, vector databases, AI agents, domain-specific models, and MLOps.
-- Participants engage through daily assignments, code labs, white papers, and live Q&A sessions, with discussions facilitated via a Discord channel.
+Q: "Can you tell me a bit about the two 1.5 Flash series models and how they enable you to accomplish so much, so quickly, with a very small cost footprint?"
+A: Flash 8B model is the smallest of Gemini hosted model that really pushes the envelope in terms of compute intelligence per dollar. It's like two to three cents per million tokens, and if you're using cache tokens, it's just one cent per million tokens.
 
-Day 1 Key Highlights:
+Q: "What has been your favorite application for these types of multimodal output scenarios? And how do you think about coupling them with the Gemini APIs?"
+A: Take Notebook LM as an example: if you can transform written content into audio form, it can really enhance the experience, making it up to 10 times better in some contexts.
 
-1. **Foundational Models and Prompt Engineering:**
-   - Discussion on training methods for large language models (LLMs) using techniques such as supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
-   - RLHF uses reward models and human feedback to refine and align models with user preferences.
-2. **Technical Advances and Tools:**
-   - **Google’s Gemini Models**: Feature 2M token context windows and multimodal capabilities. 
-   - **Flash Models**: Focus on high performance and cost efficiency, making generative AI more accessible.
-   - **OpenAI API Compatibility**: Simplifies transition between platforms, enabling developers to compare models effortlessly.
-3. **Generative AI Applications:**
-   - Applications of LLMs in multimodal output, reinforcement learning, and productization.
-   - Practical uses include video creation from text documents and enhanced coding workflows.
-4. **Evaluation Techniques:**
-   - Classical metrics like BLEU and ROUGE for textual outputs.
-   - Modern approaches like using LLMs themselves as evaluators (auto-rating).
-   - The importance of test-time reasoning and search capabilities for model outputs.
-5. **Code Labs and Prompting Techniques:**
-   - Demonstrated examples of zero-shot, few-shot, and chain-of-thought prompting.
-   - Introduced advanced response customization techniques, such as temperature tuning and structured JSON outputs.
-   - Interactive tools like the React Framework for multi-step tasks.
-6. **Pop Quiz Recap:**
-   - Reinforced core concepts, such as temperature affecting randomness in token prediction, RLHF's role in improving model alignment, and Chain of Thought prompting enhancing reasoning abilities.
+Q: "I'm really curious to learn more about how the Gemini app is using RLHF to improve its responses. How does that process work? How do you use user feedback to enhance the models and improve the app experience over time?"
+A: A high-level overview of how LLMs are fine-tuned and aligned to human preferences
+
+Q: "Since large language models learn from massive datasets, do they simply interpolate within their training data, or can they go beyond it to make new discoveries?"
+A: - The first example of this concept was a project called FunSearch, conducted in late 2023. In FunSearch, an LLM was paired with an efficient evaluator to solve challenging problems, such as NP-hard problems in the Python programming language. Using an iterative algorithm, the process evolved: the best solutions discovered so far were fed back into the LLM, which was prompted to improve them. Some of these solutions addressed open problems in computer science and mathematics, indicating the LLM discovered new insights beyond its training data.
+   - A broader concept referred to as 'test-time compute' or 'inference scaling.' In essence, during inference, the LLM generates multiple hypotheses, builds chains of reasoning, evaluates their likelihood, and iteratively refines its answers. By simulating possibilities and leveraging its existing knowledge, the LLM effectively searches at inference time, enabling it to bootstrap itself into discovering new solutions.
+
+Q: "Can larger language models be used to train smaller ones? Is it possible to transfer knowledge obtained from a larger model to improve smaller models"
+A: Distillation involves transferring knowledge from a large model into a smaller, more efficient model that retains much of the larger model's quality while being practical to serve. Data Distillation, Knowledge Distillation, On-Policy Distillation. Gecko paper is showcasing how LLM-generated query-passage pairs can enhance embedding models, achieving up to a 7x performance improvement.
+
+Q: "What are some approaches to evaluating large models? With various versions available - both larger and smaller - how do you determine which one is best suited for a given task?"
+A:  - Evaluating large language models (LLMs) can involve traditional metrics like ROUGE and BLEU, which compare outputs to a ground truth, but these methods struggle with tasks like summarization, where multiple valid outputs exist. An alternative is using LLMs as evaluators, scoring responses pointwise or comparing them pairwise to determine quality and reasoning.
+
+Q: "Can someone explain why the first Chain of Thought prompt explains the answer step by step instead of providing a direct response?"
+A:  - CoT or asking the model to explain its reasoning
+
+Q: "Is something like enum mode in a fine tune model designed to return enum values?"
+A:  - LLMs can handle enums well in a zero-shot setting - you can simply provide the possible enum options and ask the LLM to choose the appropriate one. If the zero-shot approach doesn't work, you can create a fine-tuned dataset with the input question/task and the corresponding enum label.
+
+Q: "How notebook LM was created?"
+  - It's not using a fine-tuned version of Gemini. It's just using Gemini 1.5 Pro and Flash, with the addition of some special techniques and some "Secret Sauce", especially around retrieval and around careful prompting and design of the system.
 </pre>
 </details>
 
@@ -78,10 +89,29 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 [![Live Stream](https://i.ytimg.com/vi/86GZC56rQCc/hqdefault.jpg)](https://www.youtube.com/watch?v=86GZC56rQCc)
 
+## Day 3 Generative AI Agents
+
+**Assignments**
+
+-  [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=H4gZd4BCrDQ) for this unit (created by NotebookLM).
+- Read the [“Generative AI Agents” whitepaper](https://www.kaggle.com/whitepaper-agents).
+- Complete these code labs on Kaggle:
+    1.  [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling
+    2.  [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph
+
+ **💡 What You’ll Learn**
+
+Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
+
+The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
+
 ---
 
 **📋 Reminders**
 
 - Discord is the best place to ask questions – specifically in the [#5dgai-q-and-a](https://discord.com/invite/gNrC9Xut) channel.
 - We created a new channel in Discord called [#5dgai-announcements](https://discord.com/invite/RnVCPgX5) that will be used exclusively for course announcements from us.
+- Additionally, we’ve added 2 new channels on Discord to enhance discussion:  
+    - [#5dgai-question-forum](https://discord.com/invite/kaggle) is a Discord forum (a special type of channel) where you can create specific threads, which will help finding answers easier in the future.
+    - [#5dgai-course-content](https://discord.com/invite/kaggle) is a Discord channel for deeper discussion of course content only (excluding technical troubleshooting questions).
 - We want this course community to be positive and supportive. Please follow Kaggle’s community guidelines found [here](https://www.kaggle.com/community-guidelines).
