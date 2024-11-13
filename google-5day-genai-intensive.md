@@ -28,10 +28,14 @@ The code lab will walk you through getting started with the Gemini API and cover
 
 <details>
 <summary>Summary by gpt-4o</summary>
+<pre>
 Overview:
+
 - The course, delivered virtually from November 11–15, focuses on generative AI, covering topics like foundational models, prompt engineering, embeddings, vector databases, AI agents, domain-specific models, and MLOps.
 - Participants engage through daily assignments, code labs, white papers, and live Q&A sessions, with discussions facilitated via a Discord channel.
+
 Day 1 Key Highlights:
+
 1. **Foundational Models and Prompt Engineering:**
    - Discussion on training methods for large language models (LLMs) using techniques such as supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
    - RLHF uses reward models and human feedback to refine and align models with user preferences.
@@ -52,6 +56,7 @@ Day 1 Key Highlights:
    - Interactive tools like the React Framework for multi-step tasks.
 6. **Pop Quiz Recap:**
    - Reinforced core concepts, such as temperature affecting randomness in token prediction, RLHF's role in improving model alignment, and Chain of Thought prompting enhancing reasoning abilities.
+</pre>
 </details>
 
 ## Day 2 Embeddings and Vector Stores/Databases
