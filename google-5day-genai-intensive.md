@@ -69,7 +69,6 @@ Q: "How notebook LM was created?"
   - It's not using a fine-tuned version of Gemini. It's just using Gemini 1.5 Pro and Flash, with the addition of some special techniques and some "Secret Sauce", especially around retrieval and around careful prompting and design of the system.
 </pre>
 </details>
-
 ## Day 2 Embeddings and Vector Stores/Databases
 
 **Assignments**
@@ -104,6 +103,24 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
 The code labs cover how to connect LLMs to existing systems and to the real world. Learn about function calling by giving SQL tools to a chatbot, and learn how to build a LangGraph agent that takes orders in a café.
+
+[![Live Stream](https://i.ytimg.com/vi/HQUtMWoTAD4/hqdefault.jpg)](https://www.youtube.com/watch?v=HQUtMWoTAD4)
+
+## Day 4 Domain-Specific LLMs
+
+- [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=b1a4ZOQ8XdI) for this unit (created by NotebookLM).
+-   Read the [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms).
+- Complete these code labs on Kaggle:
+    1.  [Use](https://www.kaggle.com/code/markishere/day-4-google-search-grounding) Google Search data in generation
+    2. [Tune](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model) a Gemini model for a custom task
+
+ **💡 What You’ll Learn**
+
+In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
+
+In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
+
+[![Live Stream](https://i.ytimg.com/vi/odvuLMJWUSU/hqdefault.jpg)](https://www.youtube.com/watch?v=odvuLMJWUSU)
 
 ---
 
