@@ -2,10 +2,10 @@
 
 Here are the contents of the emails from kaggle to those who registered for the course.
 
-Source [link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive), [YT playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
+Intensive page [link](https://rsvp.withgoogle.com/events/google-generative-ai-intensive), [YT playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-b1PlxitQdY0UYIbys-2es)
 ## Day 1 Foundation models and prompt engineering
 
-**Assignments**
+**🎒 Assignments**
 
 1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”, which is:
 
@@ -71,12 +71,12 @@ Q: "How notebook LM was created?"
 </details>
 ## Day 2 Embeddings and Vector Stores/Databases
 
-**Assignments**
+**🎒 Assignments**
 
 Complete Unit 2: “Embeddings and Vector Stores/Databases”, which is:
 
 -  [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=1CC39K76Nqs) for this unit (created by NotebookLM).
-- Read the [“Embeddings and Vector Stores/Databases” whitepaper](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores)(52 pages).
+- Read the [“Embeddings and Vector Stores/Databases” whitepaper](https://www.kaggle.com/whitepaper-embeddings-and-vector-stores) (52 pages).
 - Complete these code labs on Kaggle: 
     1. [Build](https://www.kaggle.com/code/markishere/day-2-document-q-a-with-rag) a RAG question-answering system over custom documents
     2. [Explore](https://www.kaggle.com/code/markishere/day-2-embeddings-and-similarity-scores) text similarity with embeddings
@@ -90,15 +90,15 @@ Today you will learn about the conceptual underpinning of embeddings and vector 
 
 ## Day 3 Generative AI Agents
 
-**Assignments**
+**🎒 Assignments**
 
 -  [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=H4gZd4BCrDQ) for this unit (created by NotebookLM).
-- Read the [“Generative AI Agents” whitepaper](https://www.kaggle.com/whitepaper-agents).
+- Read the [“Generative AI Agents” whitepaper](https://www.kaggle.com/whitepaper-agents) (42 pages).
 - Complete these code labs on Kaggle:
     1.  [Talk](https://www.kaggle.com/code/markishere/day-3-function-calling-with-the-gemini-api) to a database with function calling
     2.  [Build](https://www.kaggle.com/code/markishere/day-3-building-an-agent-with-langgraph/) an agentic ordering system in LangGraph
 
- **💡 What You’ll Learn**
+**💡 What You’ll Learn**
 
 Learn to build sophisticated AI agents by understanding their core components and the iterative development process.
 
@@ -108,19 +108,39 @@ The code labs cover how to connect LLMs to existing systems and to the real worl
 
 ## Day 4 Domain-Specific LLMs
 
+**🎒 Assignments**
+
 - [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=b1a4ZOQ8XdI) for this unit (created by NotebookLM).
--   Read the [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms).
+-   Read the [“Solving Domain-Specific Problems Using LLMs” whitepaper](https://www.kaggle.com/whitepaper-solving-domains-specific-problems-using-llms) (37 pages).
 - Complete these code labs on Kaggle:
     1.  [Use](https://www.kaggle.com/code/markishere/day-4-google-search-grounding) Google Search data in generation
     2. [Tune](https://www.kaggle.com/code/markishere/day-4-fine-tuning-a-custom-model) a Gemini model for a custom task
 
- **💡 What You’ll Learn**
+**💡 What You’ll Learn**
 
 In today’s reading, you’ll delve into the creation and application of specialized LLMs like SecLM and MedLM/Med-PaLM, with insights from the researchers who built them.
 
 In the code labs you will learn how to add real world data to a model beyond its knowledge cut-off by grounding with Google Search.  You will also learn how to fine-tune a custom Gemini model using your own labeled data to solve custom tasks.
 
 [![Live Stream](https://i.ytimg.com/vi/odvuLMJWUSU/hqdefault.jpg)](https://www.youtube.com/watch?v=odvuLMJWUSU)
+
+## Day 5 MLOps for Generative AI
+
+**🎒 Assignments**
+
+-  [Optional] Listen to the summary [podcast episode](https://www.youtube.com/watch?v=k9S6IhiUUj4) for this unit (created by NotebookLM).
+- Read the [“MLOps for Generative AI” whitepaper](https://www.kaggle.com/whitepaper-operationalizing-generative-ai-on-vertex-ai-using-mlops) (69 pages).
+-  No code lab for today! We will do a code walkthrough and live demo of [goo.gle/e2e-gen-ai-app-starter-pack](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/sample-apps/e2e-gen-ai-app-starter-pack), a resource created for making MLOps for Gen AI easier and accelerating the path to production. Please go through the repository in advance.
+
+**💡 What You’ll Learn**
+
+Discover how to adapt MLOps practices for Generative AI and leverage Vertex AI's tools for foundation models and generative AI applications.
+
+[![Live Stream](https://i.ytimg.com/vi/uCFW0i9xrBc/hqdefault.jpg)](https://www.youtube.com/watch?v=uCFW0i9xrBc)
+
+### Bonus
+
+- [Bonus day codelab](https://www.kaggle.com/code/markishere/bonus-day-extra-api-features-to-try/)
 
 ---
 
