@@ -1,271 +1,1389 @@
-## 1. Zelenskyy Calls for Unity Amidst Trump Dispute
 
-start: 00:00:20.560, duration: 11.46
+## 1. Gaza Reconstruction and Governance
 
-- **Summary:** Ukrainian President Volodymyr Zelenskyy is urging international cooperation as tensions rise with Donald Trump, who criticized him and called him a dictator. Trump also blamed Zelenksyy, saying he failed to hold elections.
-- **Key persons:** ['Volodymyr Zelenskyy (Ukrainian President)', 'Donald Trump (US President)']
-- **Summary (ru):** Президент Украины Владимир Зеленский призывает к международному единству на фоне словесной перепалки с Дональдом Трампом, который назвал его диктатором.
+start: 2025-02-22 03:07:37.000, duration: 83.62
 
-Ukrainian President Volodymyr Zelenskyy is calling for international unity as a war of words erupts between him and Donald Trump. The US president called him a dictator saying he
+- **Summary:** GCC countries are expected to pledge funds for Gaza's reconstruction, estimated at $53 billion and taking up to 10 years, with conditions attached. Arab leaders will meet in Cairo on March 4th to discuss a unified stance on the future governance of Gaza, likely involving the Palestinian Authority.
+- **Key persons:** ['Donald Trump (U.S. President)']
+- **Summary (ru):** В новостном сегменте обсуждается восстановление сектора Газа после конфликта, оцениваемое в 53 миллиарда долларов и 10 лет работы. Основной вопрос - кто возьмет на себя управление Газой, и планируется передача контроля Палестинской автономии. Для достижения консенсуса арабские лидеры встретятся в Каире 4 марта.
+
+### Processed text
+
+[2025-02-22 03:07:37.000 - 2025-02-22 03:07:44.100] countries. There is an international estimate of about $53 billion to be able to rebuild
+[2025-02-22 03:07:44.100 - 2025-02-22 03:07:50.080] Gaza, a mammoth task which is going to take up to 10 years. But there's absolutely no
+[2025-02-22 03:07:50.080 - 2025-02-22 03:07:56.920] doubt that those GCC countries committing themselves to rebuilding Gaza will have conditions
+[2025-02-22 03:07:56.920 - 2025-02-22 03:08:04.500] attached to the commitments they're going to make, particularly the terms of the reconstruction,
+[2025-02-22 03:08:04.500 - 2025-02-22 03:08:11.760] but most importantly the issue of who is going to take over Gaza. There is a growing consensus
+[2025-02-22 03:08:11.760 - 2025-02-22 03:08:17.700] now that it's about time to consider handing over control of the area to the Palestinian
+[2025-02-22 03:08:17.700 - 2025-02-22 03:08:23.480] authority. Now, when it comes to that particular issue, they're going to go to the Egyptian
+[2025-02-22 03:08:23.480 - 2025-02-22 03:08:29.480] capital Cairo on the 4th of March for a broader consensus. They're going to invite Arab leaders
+[2025-02-22 03:08:29.480 - 2025-02-22 03:08:37.240] to come up with a unified stance. First of all, an alternative to the Trump proposal.
+[2025-02-22 03:08:37.240 - 2025-02-22 03:08:44.840] Number two, tackling the delicate issue of who takes over Gaza. But this is undoubtedly an extremely
+[2025-02-22 03:08:44.840 - 2025-02-22 03:08:46.900] important moment for the...
+[2025-02-22 03:08:47.000 - 2025-02-22 03:08:51.540] Arab region, and this explains why many people have been saying that the meeting that took place
+[2025-02-22 03:08:51.540 - 2025-02-22 03:08:58.320] here in Riyadh could have huge ramifications on the entire region for many years to come.
+[2025-02-22 03:08:58.700 - 2025-02-22 03:09:00.620] Hashimah al-Bara al-Jazeera, Riyadh.
 
 
-## 2. Israeli Captives' Bodies Returned
+## 2. Trump's Gaza Plan Backpedal
 
-start: 00:00:32.020, duration: 18.76
+start: 2025-02-22 03:09:01.760, duration: 96.12
 
-- **Summary:** A convoy carrying the remains of four Israeli captives, including two young children, has been transferred from Gaza to Israel. The captives were taken during the October 7th attack.
+- **Summary:** President Trump clarified that his plan for the U.S. to take over and redevelop Gaza is a recommendation, not a demand. He expressed surprise at Egypt and Jordan's reluctance to take in Palestinian refugees and suggested all Palestinians would want to leave.
+- **Key persons:** ['Donald Trump (U.S. President)', 'Patti Kolhain (Reporter)']
+- **Summary (ru):** В новостном сегменте обсуждаются недавние комментарии президента Трампа относительно сектора Газа. Трамп предложил, чтобы США взяли сектор Газа, перестроили его и избавились от Хамаса, но после негативной реакции он отступил от этой идеи.
+
+### Processed text
+
+Well, Patti Kolhain has more now on the recent comments from U.S. President Donald Trump. He pretty much laid out what his original plan was, that the U.S. would take the Gaza Strip, redevelop it, get rid of Hamas, and keep it. Those are things that his aides have tried to say, no, he didn't really mean to say that. But now he is saying that this is just a recommendation, that he's not going to demand it be implemented. He said he was surprised that Egypt and Jordan didn't want to take in the millions of Palestinians. And he said that it's such a horrible, horrible conditions that, given the chance to leave, he believes all the Palestinians would, in fact, want to leave. And just to give you a sense that really indicated he maybe doesn't understand the history, very complicated history in this region. He talked about the fact that he surprised Israel ever left, that it was a horrible deal. But then he said, maybe the Israelis are looking at us and saying, why did you ever leave the Panama Canal? So very much trying to describe this as a real estate transaction. But I think the important part here is, after the pushback, we see...We see... from not just the region, but the entire world. The president is starting to signal that he realizes that he does not have the ability to impose basically getting rid of all of the Palestinians. So he seems to be, with Trump, he either goes, okay, well, that's fine, I didn't really want it. Or he says, doubles down and says, for example, Egypt and Jordan, if you want this billions of aid, then you're gonna have to do this. So he's definitely giving the indication that it's the latter, that he's going to just sort of let this one go, at least for now.
+
+
+## 3. UN Condemns Rwanda's Support for M23
+
+start: 2025-02-22 03:10:39.080, duration: 130.18
+
+- **Summary:** The UN Security Council unanimously condemned Rwanda's support of the M23 rebel group in the Democratic Republic of Congo and called for the withdrawal of Rwandan troops. The resolution also addresses illicit mining in the region, a major contributor to tensions.
+- **Key persons:** ['Kristen Salumi (Reporter)']
+- **Summary (ru):** Совет Безопасности ООН впервые осудил поддержку Руандой боевиков M23 в Демократической Республике Конго и призвал Руанду немедленно вывести войска. Эксперты ООН утверждают, что 4000 руандийских солдат поддерживают повстанческую группировку, захватившую обширные территории.
+
+### Processed text
+
+The UN Security Council has condemned Rwanda's backing of M23 fighters in Democratic Republic of Congo for the first time.
+He called on Kigali to immediately withdraw troops in support for M23.
+UN experts say 4,000 Rwandan soldiers are supporting the rebel group, which has seized swathes of territory in the eastern DRC in recent weeks.
+Kristen Salumi has been following developments from the United Nations in New York.
+Well, the Security Council had a meeting and it took them two weeks to get there, but they unanimously passed a resolution on the situation there.
+And...
+The fact that it was unanimous, all 15 council members supported it, shows growing international concern about the situation in the Democratic Republic of Congo. The resolution calls for an immediate ceasefire and withdrawal of forces there, including the M23. And it calls on Rwanda to stop its support for the M23, something that they've denied doing. Rwanda's denied supporting the M23 and deflected on that in the Security Council. The resolution also condemns systematic and illicit exploitation of mining in the region, something that's added to the tensions and the interest in this area so much. So we've had some very strong words coming from the Security Council.
+It did take them two weeks to negotiate that in the fall of major cities like Goma and Bukavu in the process. But in the end, they came out with this unanimous resolution binding under international law. At the same time, we're seeing countries unilaterally attempt to put pressure on Rwanda and the M23. The United States just issued sanctions on a government official in Rwanda, the EU.
+calling Rwandan officials to the capital for talks and discussions.
+So clearly there's growing concern on the part of the international community and this is the result.
+Well, despite this, Rwandan-backed M23 forces are still advancing on another city in Eastern Democratic Republic of Congo after capturing large areas of territory in recent weeks.
+
+
+## 4. M23 Advances in DRC, Bukavu Aftermath
+
+start: 2025-02-22 03:12:50.000, duration: 244.84
+
+- **Summary:** M23 rebels have taken Bukavu, leaving 20 dead, with conflicting reports on who is responsible for the killings. The rebels are advancing towards Uvira, prompting residents to flee, and the UN food warehouses were looted.
+- **Key persons:** ['Alan Wai-Khani (Reporter)']
+- **Summary (ru):** Новостной сегмент сообщает о возвращении жизни в Букаву после захвата города повстанцами M23, обвиняемыми в гибели 20 человек. Жители убирают город и надеются на безопасность, в то время как повстанцы продвигаются к Увире, что может привести к полному контролю над Южным Киву.
+
+### Processed text
+
+Karm is returning to Bukavu, where 20 people were killed as rebels took the city on Sunday.
+Alan Wai-Khani is there now with this report.
+Those who died in Bukavu early this weekend are led to rest at the local cemetery.
+All of them, including children, were shot dead.
+The UN accuses Rwandan-backed M23 rebels of being responsible.
+The group known as Congo River Alliance blames government soldiers who were fleeing from the city as the fighters were approaching for shooting.
+After what happened in the city, we collected several bodies in different areas.
+We want to give the victims a dignified send-off.
+M23 took Bukavu on Sunday.
+They have asked those who live here to get back to work.
+Karm has returned to Bukavu and people are getting back their daily lives.
+Residents spend the morning cleaning up trash that has accumulated around the city.
+M23 officials have asked, assured them they will not be harmed and their properties are safe.
+Many homes, businesses, government offices as well as UN food warehouses were looted over the weekend. Now these residents say they just want to move on with whatever group is in charge.
+We woke up early for the cleaning as requested by our leaders and now everything is clean including our market. We're happy with this new initiative.
+Now that everything is coming back to normal, we want security for all of us, including women and our children, as they will resume school from next week.
+Further south, M23 fighters continue their advance toward Uvira, the second largest administrative territory of South Kivu. It borders Tanganyika province, Tanzania and Burundi. Thousands of Congolese who were in the town have already fled into neighboring countries. If Uvira falls, M22 will have fully taken control of South Kivu.
+Al Jazeera, Bukavu, the Democratic Republic of Congo.
+How high is that?
+It's not going to have to wait until the last 30 years.
+We'll just pick up our people and have to wait to see how the president has done a 10-day contract with me.
+The next day, M23, we've got an expensive plan for use of this new program.
+House of Europe. But as Germany prepares to go to the polls, we'll look at how its ageing infrastructure has become a $600 billion problem.
+Who's there? The answer was in Arabic. My name is Khaled. I was abducted by the CIA.
+In 2004, a German citizen was kidnapped and tortured by the CIA.
+And he came up with handcuffs and led me into the interrogation room.
+A powerful documentary tells the story of how the geopolitics of the post-9-11 world ruined the life of an innocent man.
+The El Masri case on Al Jazeera.
+As China ramps up deportations of North Korean defectors, human rights groups say they face imprisonment, torture, and even death in their home country. In desperation, some embark on dangerous journeys.
+101 East reveals North Korea's fleeing defectors. On Al Jazeera.
+The latest news as it breaks.
+Despite the ceasefire agreement, UN agencies warn that without sustained international support, the humanitarian catastrophe here will only deepen.
+With detailed coverage.
+Nearly 10,000 Palestinians remain imprisoned by Israel and potentially thousands more disappeared from Gaza.
+From the heart of the story...
+The entire city of Gethanom doesn't have any operational health facility.
+People have to get out of the city.
+You're watching Al Jazeera. A reminder of the headlines now.
+
+
+## 5. News Headlines Recap
+
+start: 2025-02-22 03:16:55.220, duration: 42.66
+
+- **Summary:** A quick recap of the main news stories: Hamas handing over the remains of Shiri Bibas, Trump's Gaza plan clarification, and UN condemnation of Rwanda.
+- **Key persons:** ['Shiri Bibas', 'Donald Trump (U.S. President)']
+- **Summary (ru):** В новостном сегменте обсуждается передача останков израильской пленницы Шири Бибас организацией Хамас Красному Кресту, а также заявление президента Трампа об отказе от принудительного осуществления его плана по контролю над Газой. Также, Совбез ООН призвал Руанду вывести войска из Демократической Республики Конго.
+
+### Processed text
+
+Hamas says it's handed the remains of Israeli captive Shiri Bibas, the Red Cross.
+Israel says a forensic team has been sent to confirm the identity of the body.
+U.S. President Donald Trump says his controversial plan to take over Gaza
+is only a recommendation and that he will not force it.
+Trump had previously suggested the entire Palestinian population of the stream
+should be forcibly removed and resettled elsewhere.
+His apparent reversal comes after a meeting of Arab leaders in Saudi Arabia
+in which the future of Gaza...
+was discussed. And the UN Security Council has called on Rwanda to immediately withdraw its
+troops from Democratic Republic of Congo. For the first time, it directly condemned Kigali
+
+
+## 6. US-Ukraine Tensions Rise
+
+start: 2025-02-22 03:17:37.880, duration: 129.62
+
+- **Summary:** President Trump criticized Ukraine and urged them to negotiate with Russia, despite previously barring Ukrainian leadership from talks. Discussions between US envoy Keith Kellogg and President Zelensky are ongoing regarding a controversial rare earth minerals agreement.
+- **Key persons:** ['Donald Trump (U.S. President)', 'Vladimir Putin (Russian President)', 'Keith Kellogg (U.S. envoy to Ukraine)', 'Vladimir Zelensky (Ukrainian President)']
+- **Summary (ru):** В новостном сегменте обсуждается ухудшение отношений между Украиной и США, на фоне заявлений президента Трампа о необходимости переговоров и критики Украины. Обсуждается также соглашение об экспорте редкоземельных минералов из Украины в США в обмен на оказанную помощь.
+
+### Processed text
+
+of backing the M23 rebels. The deteriorating relationship between Ukraine and the US has been dealt another blow. President Donald Trump has doubled down on anti-Ukraine rhetoric, saying the country needs to come to the negotiating table, despite barring Ukraine's leadership from earlier talks with Russia. I've had very good talks with Putin and I've had not such good talks with Ukraine. They don't have any cards, but they play it tough. But we're not going to let this continue. This war is terrible. It would have never happened if I were president president. But it did happen. So I got stuck with it. And the whole world is stuck with it. And right now you have a country that has its cities. They look like demolition sites. Those beautiful towers, those thousand-year-old gold. The golden domes that were so beautiful, the most beautiful in the world, they say. They were all in smithereens. Millions of people are killed, I think far more people than anyone understands. And we have people that better get to the table and get it ended. Well, Trump's comments come as his administration pushes Kyiv to sign a controversial rare earth minerals agreement. Discussions are ongoing in the Ukrainian capital between the U.S. envoy to Ukraine, Keith Kellogg, and President Vladimir Zelensky. The deal would give the U.S. revenue from some of Ukraine's mining industries and resources to make up for aid provided over the course of nearly three years. While President Zelensky has called the latest round of talks in Kiev extensive and positive. Today we also had a lot of international activities, with General Kellogg a meeting that restores hope. We need strong agreements in the United States, agreements that will truly work. I gave instructions to work swiftly and very sensibly. Economy and security must always go hand in hand, and the details of the agreement matter. The better they are structured, the better the results.
+
+
+## 7. Other News: Drone attack, Syria
+
+start: 2025-02-22 03:19:57.240, duration: 23.28
+
+- **Summary:** Several shorter news pieces were mentioned at this point, starting with a drone attack in northwestern Syria.
 - **Key persons:** []
-- **Summary (ru):** В новостном сегменте сообщается о возвращении в Израиль тел четырех израильских заложников, освобожденных из сектора Газа, включая двух маленьких детей. Врачи без границ призывают к действиям в связи с этим событием.
+- **Summary (ru):** В Донецкой области произошла серия ударов по гражданской инфраструктуре. В результате атаки дрона в сельской местности Идлиба, Сирия, погиб мужчина, находившийся в автомобиле.
 
-failed to hold elections. A convoy carrying the bodies of four Israeli captives released from
+### Processed text
 
-Gaza has entered Israel. Among them are those of two children who were nine months old and four years old when they were taken during the October 7th attack. Doctors Without Borders is calling for
-
-## 3. Fighting Escalates in Eastern DRC
-
-start: 00:00:50.780, duration: 176.44
-
-- **Summary:** Doctors Without Borders calls for civilian protection and aid access as heavy fighting continues between M23 rebels and the army in the Eastern Democratic Republic of Congo.  The report covers the recent M23 takeover of Bukavu, human rights abuses, and the ongoing conflict.
-- **Key persons:** ['Alain Waikani (Al Jazeera Reporter)']
-- **Summary (ru):** В репортаже рассказывается о продолжающихся боевых действиях между повстанческими силами M23 и армией в Восточной Демократической Республике Конго, захвате города Букаву повстанцами, а также о гуманитарных последствиях и обвинениях в нарушениях прав человека.
-
-News Anchor: the protection of civilians and humanitarian access as heavy fighting between M23 rebel forces and the army continues in the Eastern Democratic Republic of Congo. Alain Waikani has traveled across Lake Kivu from Goma to Bukavu. The ports have just reopened after weeks of fighting. Alain reports from Bukavu that's been recently taken by M23 forces.
-
-Alain Waikani: The Congo River Alice, which M23 is part of, met residents of Bukavu. Thousand turned up to listen to what the rebels had to say. The fighters took the city on Sunday, they overrun the airport and have been rapidly advancing further south. Two people died at this hospital. A dozen others are nursing gunshots wounds.
-
-Civilian: It was Sunday. I was in the house when I heard the gunfire sound. I was sitting in my living room chair when the bullet hit my leg. At the same time, my husband carried me up to the road, where the ambulance picked me up and brought me here.
-
-UN Representative: The UN blames M23 for human rights abuses. Our office has confirmed cases of summary execution of children by M23 after they entered the city of Bukavu last week. We're also aware that children were in possession of weapons. We call on Rwanda and M23 to ensure that human rights and international humanitarian law are respected. We're also documenting cases of ill-treatment, conflict-related sexual and gender-based violence, child and forced recruitment, intimidation and death threats.
-
-M23 Representative: The rebels have accused fleeing government soldiers of shooting civilians and stealing from them. We feel sad because when we arrived, there was no order. Residents lost their property. Children of army soldiers mishandled guns and killed each other. We saw Mai Mai and Wazalendo militia steal property.
-
-Alain Waikani: In North Kivu, Congolese Nbutembo-Beni territory line up to unleashed fight against M23 and its allies. Beni is the last remaining government stronghold in this region. The group says it wants to control the region which are rich in rare earth minerals. Many Congolese say they want the conflict resolved so they can rebuild their lives. It's almost four weeks right now since the DRC army is not showing the sign of reorganizing the offensive against the M23 on the ground. The army is losing more ground. The M23 advancing in different key areas here in the province of South Kivu and even in the other side of Lubero. Now population are wondering, in the absence of the dialogue with this rebel which was refused by the government of Kinshasa, how these authorities of the country will deal with this situation as now the panic is going widely across the country and people are worrying for what may happen as the rebels are moving forward up to now. Alan Waikani, Al Jazeera, Bukavu, the Democratic Republic of Congo.
-
-## 4. South Korean President Yoon's Impeachment Trial
-
-start: 00:03:47.220, duration: 111.0
-
-- **Summary:** Yoon Suk-yeol, the impeached South Korean president, appeared in court for a criminal case related to his declaration of martial law. The court is also considering his release from detention, amidst the ongoing constitutional court hearings regarding his impeachment.
-- **Key persons:** ['Yoon Suk-yeol (Impeached South Korean President)', 'Rob McBride (Al Jazeera Reporter)', 'Choi Sang-mok (Acting President)', 'Donald Trump (US President)']
-- **Summary (ru):** Бывший президент Южной Кореи Юн Сок Ёль предстал перед судом по обвинению в мятеже за объявление военного положения в прошлом году, что привело к его импичменту. Одновременно Конституционный суд рассматривает дело об импичменте, а страна находится в политической неопределенности.
-
-Yoon Suk-yeol has become the first sitting president of South Korea to appear in court in a criminal case. He's been charged with insurrection for declaring martial law last year that led to his impeachment. Rob McBride reports from Seoul.
-
-Amid heavy security, impeached president Yoon Suk-yeol was brought to Seoul Central District Court for the first hearing of this landmark criminal case. It follows Yoon's declaration of martial law last December, which was quickly lifted after members of the besieged National Assembly voted to overturn it. Yoon has argued it was meant more as a warning to opposition parties, who he says were stopping him from governing. All this talk about who ordered what and who received what orders, it feels like chasing moonlight reflections on a lake. The court also heard a motion from Yoon's lawyers for his release from the detention center, where he's been held since his arrest last month. I believe it has been explained that the current detention is in a legal confinement and that the grounds for detention have ceased to exist. The start of this criminal case comes as the constitutional court on the other side of Seoul is wrapping up its hearings into Yoon's impeachment to decide if he should be removed from office. As this drama is playing out in the courts, the country remains in a kind of political and diplomatic limbo. The acting president, Choi Sang-mok, has not yet even spoken on the phone with President Donald Trump, the leader of South Korea's most important ally at a time when the U.S. is threatening tariffs on steel, cars and semiconductor chips, some of South Korea's most important exports. Rob McBride, Al Jazeera, Seoul.
-
-## 5. Concerns over Migrant Deportations to Panama
-
-start: 00:05:38.220, duration: 167.0
-
-- **Summary:** Rights groups express concerns about the safety of migrants deported from the U.S. to Panama, where they are reportedly being held against their will. This follows agreements between the Trump administration and several Central American countries to accept deportees.
-- **Key persons:** ['Julia Galeano (Al Jazeera Reporter)', 'Jose Raul Mulino (Panamanian President)', 'Marco Rubio (U.S. Secretary of State)']
-- **Summary (ru):** Правозащитные группы выражают обеспокоенность по поводу безопасности мигрантов, депортированных из США в Панаму, где их содержат под стражей без юридических оснований и дальнейших планов, что вызывает критику и вопросы о законности таких действий.
-
-Rights groups have raised concerns about the safety of migrants deported from the U.S. to Panama. Panama's government has agreed to take in and organize the repatriation of those from countries refusing to accept deportation flights from America. Julia Galeano has more from Mexico City. This situation has been nothing short of a public relations disaster for the Panamanian government, and that is largely due to the secrecy with which this situation has been handled. Essentially, we learned from the president himself, Jose Raul Mulino, last week, that some 300 deportees from different nations coming from the U.S. had arrived in Panama. But despite requests for more information, such as who they were, where were they going, what were the next steps, no more information was given. And it was only on Tuesday that we learned from a story that the New York Times wrote that these people were actually being kept against their will in a hotel in Panama City, and that they were going to be transferred to a camp in a very remote area of the Darien province in Panama. So now the conversation has shifted in Panama to the legality of what's going on. There's some 300 people who are now detained in this country where they have committed no crime, and there seems to be no legal roadmap to what comes next for them, which has, of course, prompted civil organizations to point out the fact that this is in flagrant violation of several international and national laws in Panama. The security minister of the country has said that these people aren't detained, that in fact they're just being held in order to protect them from potential human smugglers that may want to take advantage of them. And I think what we're seeing here right now is the initial fallout of these agreements that the Trump administration has made with several countries in Central America, which include Guatemala, Costa Rica, and El Salvador. During a recent visit by U.S. Secretary of State Marco Rubio, it was announced that all of these countries would take back deportees, not only of their own nationalities, but rather, you know, deportees from all different nationalities. And there was no legal roadmap, there was no more further explanation as to how this process would work. What would happen, as we're seeing right now in the case of Panama, with people that simply refuse to voluntarily go back to their own countries citing security concerns? Would they remain detained? Would they be offered asylum in the country that they arrive in? So I think now, today, it's Panama, but certainly in the coming days and weeks, if these flights continue, I think we'll be seeing similar confusion taking place in these countries as well. Julia Galliano, Al Jazeera, Mexico City.
+The attack is the latest in a series of strikes on civilian infrastructure in the Donetsk region.
+Emergency responders are at the scene.
+A man has died after a drone attack targeted his car in Idlib's countryside in northwestern Syria.
+Videos circulating on Syrian social media show smoke rising from it.
+It's unclear where the strike came from.
 
 
-## 6. German Election and Foreign Policy
+## 8. AP Sues Trump Administration Officials
 
-start: 00:08:25.220, duration: 165.0
+start: 2025-02-22 03:20:20.520, duration: 30.88
 
-- **Summary:** Foreign policy, particularly defense spending and trade relations with the U.S., is a major issue in the upcoming German elections.  The report highlights the impact of the Ukraine war and U.S. pressure on European defense spending.
-- **Key persons:** ['Dominic Cain (Al Jazeera Reporter)', 'Olaf Scholz (German Chancellor)', 'Friedrich Merz (Christian Democrat Leader)', 'Donald Trump (US President)']
-- **Summary (ru):** В преддверии выборов в Германии важную роль играет внешняя политика, особенно вопросы оборонных расходов в свете войны в Украине и призывов США к увеличению расходов, а также торговые отношения с США.
+- **Summary:** The Associated Press is suing three Trump administration officials over restrictions on access to the White House and Air Force One. The AP alleges a violation of free speech after being singled out for using the term "Gulf of Mexico" instead of Trump's preferred "Gulf of America."
+- **Key persons:** ['Donald Trump (U.S. President)']
+- **Summary (ru):** Ассошиэйтед Пресс подала в суд на трех должностных лиц администрации Трампа из-за запретов на доступ в Белый дом и на борт номер один. AP утверждает, что запреты нарушают свободу слова.
 
-Foreign policy will play an important role when voters in Germany go to the polls on Sunday. Since the end of the Second World War, defence spending has been diverted to other areas, but the war in Ukraine and calls by the U.S. President for Europe to increase defence spending are changing that. Dominic Cain reports from Berlin. German fighting vehicles on manoeuvres in Lithuania. They're a public show of their country's commitment to NATO's eastern flank, part of a 5,000-strong brigade in the Baltic state. When Russia invaded Ukraine, Chancellor Olaf Scholz responded with record funding to boost the armed forces. The $125 billion investment helped push defence spending to 2% of GDP, a key NATO target. But the Trump White House wants European countries to spend more, much more. And that has annoyed ministers in Berlin. It will be very important for the future of Europe that we enable everybody to do what is necessary for them. In this respect, it's very good that a very careful debate has now begun. As I said, in my view, Germany can accept allowing member states to spend more than 2% on their defence. Broadly speaking, the Christian Democrat leader Friedrich Merz shares this view. But he's also said he's deeply pessimistic about the prospects for Ukraine, following the U.S. decision to exclude the EU from talks with Russia about ending the war. The U.S. president's agenda on trade tariffs is another priority for the next German government. Its automotive and pharmaceutical sectors are particularly exposed. Taken together, the two generated $38 billion in exports to the U.S. in 2023. The steel industry is also coming to terms with reimposed tariffs, which could lead to a drop in output. Here too, broadly speaking, shots and mouts have a similar view. Most of the things Trump is saying now are not new. He's talked about them again and again. There are considerable concerns on this side of the Atlantic about what is still to come. This makes it all the more important that we are as united as possible and react. The United States has been a guarantor of security in Europe for almost 80 years. Its military and trade presence helping provide conditions for prosperity. Now both of those are in question. Meaning whoever leads the next government will face immediate, difficult foreign policy questions. Dominic Cain, Al Jazeera, at the German Chancellery. Finally, this bulletin.
+### Processed text
+
+The Associated Press has launched legal action against three Trump administration officials over a series of bans that restrict its access to the White House and Air Force One.
+The AP, one of the world's largest news organisations, alleges the ban violates free speech in contravention of the First Amendment.
+The organisation was singled out by the White House earlier this month for continuing to use the name Gulf of Mexico after Trump renamed it as the Gulf of America.
 
 
-## 7. Royal Burial Site Uncovered in Egypt
+## 9. LA Fire Chief Removed
 
-start: 00:11:10.220, duration: 27.0
+start: 2025-02-22 03:20:54.240, duration: 23.14
 
-- **Summary:** A royal burial site, the first since the discovery of Tutankhamun's tomb in 1922, has been found in Egypt. The Antiquities Authority announced the discovery of King Tutankhamun II's tomb near the Valley of the Kings.
-- **Key persons:** ['Tutankhamun II (Ancient Egyptian King)']
-- **Summary (ru):** В Египте обнаружено королевское захоронение, первое со времен открытия гробницы Тутанхамона в 1922 году. Власти заявили, что нашли древнюю гробницу Тутанхамона II недалеко от Долины Царей в Луксоре.
+- **Summary:** The Mayor of Los Angeles, Karen Bass, removed fire chief Kristen Crowley over the handling of wildfires that killed 29 people. Bass accused Crowley of sending firefighters home and refusing an investigation.
+- **Key persons:** ['Karen Bass (Mayor of Los Angeles)', 'Kristen Crowley (former fire chief)']
+- **Summary (ru):** Мэр Лос-Анджелеса уволила начальника пожарной охраны города из-за ее действий во время январских лесных пожаров, в результате которых погибли люди и были разрушены здания. Мэр обвинила начальника в том, что она отправила пожарных домой в начале пожаров и отказалась проводить расследование.
 
-A royal burial site has been uncovered in Egypt, the first since the famous discovery of Tutankhamun's tomb in 1922.
+### Processed text
 
-The Antiquities Authority says it's found the ancient tomb of King Tutankhamun II. The vault was discovered near the Valley of the Kings in Luxor in southern Egypt. Tutankhamun lived nearly 3,500 years ago. That's it for me, Elizabeth Puranam. Stay with us. Inside Story is coming up next. Thank you for watching.
+The mayor of Los Angeles has removed the city's fire chief over her handling of wildfires in January. At least 29 people were killed and thousands of buildings were destroyed after fires tore through parts of the city line last month. Mayor Karen Bass has accused fire chief Kristen Crowley of sending home a thousand firefighters when the fires began and refusing to conduct an investigation.
 
-## 8. Weather Report: Heavy Snow in Japan
 
-start: 00:11:37.220, duration: 103.0
+## 10. Hadi Mattar Found Guilty
 
-- **Summary:** Heavy snow is expected to continue in western Honshu, Japan, for the next two to three days. Elsewhere in Asia, rain is forecast for parts of China and India.
+start: 2025-02-22 03:21:20.860, duration: 23.36
+
+- **Summary:** Hadi Mattar was found guilty of attempted murder for stabbing novelist Salman Rushdie in 2022, leaving Rushdie blind in one eye. Mattar faces additional federal terrorism charges.
+- **Key persons:** ['Hadi Mattar', 'Salman Rushdie']
+- **Summary (ru):** Хади Матар был признан виновным в покушении на убийство писателя Салмана Рушди, совершённом в 2022 году в Нью-Йорке. Нападение привело к серьёзным травмам Рушди, включая потерю зрения на один глаз. Матару также предстоят федеральные обвинения в совершении акта терроризма.
+
+### Processed text
+
+Hadi Mattar has been found guilty of attempted murder after stabbing novelist Salman Rushdie at an event in New York in 2022. Mattar stabbed the 77-year-old several times, blinding him in his right eye and causing abdominal injuries. He's also due to face federal charges brought by prosecutors in western New York who say the attempted murder of Rushdie was an act of terrorism.
+
+
+## 11. Brazil Sinkholes
+
+start: 2025-02-22 03:21:47.340, duration: 14.96
+
+- **Summary:**  A town in northeastern Brazil declared a state of emergency due to large sinkholes threatening residential areas.
 - **Key persons:** []
-- **Summary (ru):** В новостном сегменте обсуждается погода в Азии, в частности, сильные снегопады в Японии (на острове Хонсю) и дожди в Китае и Индии, с прогнозами на ближайшие дни.
+- **Summary (ru):** В городе на северо-востоке Бразилии объявлено чрезвычайное положение из-за огромных воронок, которые простираются на сотни метров и приближаются к жилым районам. В пострадавшем регионе проживает более 50 000 человек.
 
-Speaker 1: OK, have a guess what's happening in Japan.
+### Processed text
 
-Speaker 1: There are actually warnings out for the next two or three days of continuous snow falling in Honshu. Speaker 1: Western side of Honshu. This is quite a long way south, Toyama. Speaker 1: But that's it all the same. Beautiful picture, but a lot of snow. Speaker 1: And there is more to come for the next couple of days. Speaker 1: And it comes quite a long way south, as you can see. Speaker 1: Toyama's around about in here. Speaker 1: Beyond it though, and the air that's providing this potential, Speaker 1: is the cold stuff in the sunshine coming out of north-eastern China. Speaker 1: That sunshine disappears the further south you come. Speaker 1: There has been rain for a time south of the Yangtze. Speaker 1: And that rebuilds and comes across again for later on Saturday. Speaker 1: And where it's cold enough, or high enough, you get some snow out of that too. Speaker 1: A rather miserable couple of days. Maybe three days south of the Yangtze that's been. Speaker 1: Significant showers in north-eastern India are fading away, those of rain. Speaker 1: There are still some snow showers up on the foothills of the Himalaya. Speaker 1: And we've already seen big showers go through northern Pakistan and north-western India. Speaker 1: This is Friday's forecast, so it looks much quieter here. Speaker 1: But what it means is the air quality has improved. Speaker 1: Now those showers may not return, but we are seeing showers build now in Odisha. Speaker 1: And that is likely to carry on for the next couple of days, Speaker 1: for Kolkata quite possibly getting the wet weather. Speaker 1: As of Pakistan, you're back to sunshine. Speaker 2: Who's there? Speaker 1: The answer was in Arabic.
+[2025-02-22 03:21:47.340 - 2025-02-22 03:21:53.280] A town in northeastern Brazil has declared a state of emergency because of massive sinkholes.
+[2025-02-22 03:21:53.980 - 2025-02-22 03:21:58.180] While the craters stretch hundreds of metres and are encroaching on residential areas,
+[2025-02-22 03:21:58.420 - 2025-02-22 03:22:02.300] more than 50,000 people live in the affected region.
 
-## 9. The El Masri Case Documentary Promo
 
-start: 00:13:20.220, duration: 26.0
+## 12. Drug Lord Zambada Seeks Repatriation
 
-- **Summary:** A promo is shown, about the kidnapping and torture of German citizen Khaled El Masri by the CIA in 2004 and how it ruined his life.
-- **Key persons:** ['Khaled El Masri']
-- **Summary (ru):** В этом сегменте рассказывается история немецкого гражданина, похищенного и подвергнутого пыткам ЦРУ в 2004 году, и о том, как геополитика после 11 сентября разрушила жизнь невиновного человека.
+start: 2025-02-22 03:22:03.200, duration: 152.04
 
-Khaled: My name is Khaled. I was abducted by the CIA.
+- **Summary:** Imprisoned Sinaloa cartel leader Ismael Zambada, also known as El Mayo, is seeking repatriation to Mexico, claiming his detention was illegal. Mexican President Claudia Sheinbaum indicated there might be merit to his case, focusing on the rights of Mexican citizens tried abroad.
+- **Key persons:** ['Ismael Zambada (El Mayo)', 'Joaquin Guzman', 'Ovidio Guzman', 'Claudia Sheinbaum (Mexican President)', 'John Holman (Reporter)']
+- **Summary (ru):** В новостном сегменте рассказывается об Исмаэле Замбаде, также известном как Эль Майо, бывшем лидере картеля Синалоа, который сейчас находится в тюрьме в США и добивается репатриации в Мексику. Утверждается, что его арест был незаконным, и президент Клаудия Шейнбаум заявила, что в его деле может быть зерно истины, учитывая права мексиканских граждан, сталкивающихся с судом за границей.
 
-Narrator: In 2004, a German citizen was kidnapped and tortured by the CIA. Khaled: And he came up with handcuffs and led me into the interrogation room. Narrator: A powerful documentary tells the story of how the geopolitics of the post-9-11 world ruined the life of an innocent man. The El Masri case on Al Jazeera.
+### Processed text
 
-## 10. Inside Story: US-Russia Talks on Ukraine
+When the Mexican drug law, this male Zambardo, was arrested in Texas last year. It sent shockwaves through the Sinaloa cartel, which he had formerly led. At the time, U.S. officials said... There. At the time, U.S. has already been used to the public motorist. On the left, still there has been a number of the two-year-old cars that? It was almost being used to be used to the public motorists! It's basically a difference between other people who are treated for the people whose interests are being recruited. that his arrest was a major step in fighting organised crime and illegal fentanyl production. But now Zambada, who's in prison in New York, is trying to return home. John Holman reports now from Mexico City. Ismael Zambada, otherwise known as El Mayo, formerly a leader of the powerful Sinaloa cartel and now in a US prison facing multiple criminal charges, has sent a letter to the Mexican consulate in New York asking to be repatriated to his home country. Mexican media report that the letter makes the case that his detention wasn't legal. It was bizarre. El Mayo had said in an earlier letter that Joaquin Guzman, one of his rivals in the Sinaloa cartel, kidnapped him and then bundled him on a plane in a rural Mexican airstrip and flew him, together with Guzman himself, to Texas. There, US officials were waiting for them. The suspicion in Sinaloa has always been that Guzman handed over El Mayo to get a better deal for himself and his brother, Ovidio Guzman, already in US custody. The Mexican government at the time said that US authorities didn't tell them about the plan. On Friday, President Claudia Sheinbaum weighed in on the issue. Thank you. Thank you. She appeared to think there could be merit in Elmayo's case. Imagine another person beyond this individual and the crimes they may have committed. The issue at hand is the right of a Mexican citizen when facing trial abroad without having gone through the proper legal process. So yes, there is an issue in the letter being sent that relates to sovereignty and the judicial process. Ultimately, of course, this rests with the U.S. authorities who will likely be reluctant to give up Elmayo, a key leader in a cartel that they've just designated as a terrorist organisation and whose arrest they announced with great fanfare. Meanwhile, the Mexican government also has its hands full with the war in Sinaloa that the capture of Elmayo sparked. The government's desperately trying to subdue that conflict even as Ismail Zambada tries to get home. John Holman, Al Jazeera, Mexico City.
 
-start: 00:13:46.220, duration: 1710.0
 
-- **Summary:** Inside Story discusses the recent US-Russian talks in Saudi Arabia about the war in Ukraine, which excluded Ukrainian and European leaders. The program explores the implications of these talks, Trump's stance on the conflict, and the potential consequences for Ukraine and the transatlantic relationship.
-- **Key persons:** ['James Bayes (Host)', 'Alexandra Byers (Reporter)', 'Donald Trump (US President)', 'Vladimir Zelenskyy (Ukrainian President)', 'Vladimir Putin (Russian President)', 'Anatole Levin (Director of the Eurasia programme at the Quincy Institute)', 'Andrei Kortunov (Political analyst)', 'Mateja Neles (Political analyst and CEO of the German-Ukrainian Bureau)']
-- **Summary (ru):** В Саудовской Аравии прошли переговоры между США и Россией по вопросу войны в Украине, но без участия представителей Украины и ЕС. Президент Зеленский раскритиковал эти переговоры, а Дональд Трамп обвинил Киев в развязывании войны.
+## 13. Slovakia Protests
 
-James Bayes: Hello again, I'm James Bayes.
+start: 2025-02-22 03:24:36.180, duration: 28.62
 
-US and Russian delegates: [gathered in Saudi Arabia's capital to discuss the war]
+- **Summary:** Thousands protested in Slovakia, calling for Prime Minister Robert Fico's resignation over his pro-Moscow policies, coinciding with the seventh anniversary of a journalist's murder that previously led to Fico's resignation.
+- **Key persons:** ['Robert Fico (Prime Minister of Slovakia)']
+- **Summary (ru):** В Словакии прошли многотысячные митинги с требованием отставки премьер-министра Роберта Видсо. Протесты связаны с его про-московской политикой и годовщиной убийства журналиста, которое в свое время привело к отставке Фицо.
 
-James Bayes: ...the first meeting of its kind in three years. But Ukrainian and European Union leaders weren't invited. Ukraine's military is reliant on US weapons to fight Russia's invasion. President Trump's decisions are putting Kyiv under increasing pressure, making it feel it's little more than a bargaining chip. Ukrainians want peace, but not at any cost. Meanwhile, President Putin seems to have already divided the US and EU, creating the worst fracture in the transatlantic relationship since World War II. Russia's diplomatic isolation is over. So is it time for the European allies to create new economic and military strategies? And what does this all mean for Ukraine? We'll be asking those questions to our guests in a moment. But first, this report from Alexandra Byers.
+### Processed text
 
-Alexandra Byers: For many people watching around the world, an extraordinary change in relationship. Senior officials from the U.S. and Russia together at a negotiating table for four-and-a-half hours in the Saudi capital on Tuesday, the first meeting of its kind since Russian forces invaded Ukraine three years ago. While campaigning for the presidency, Donald Trump said he would end the war, while blaming Kyiv for starting it.
+Thousands of people have rallied across Slovakia to call for Prime Minister Robert Vidso to resign. Demonstrators have been staging regular protests against the four-time leader his pro-Moscow policies. Friday's rallies also marked seven years since the murder of an investigative journalist. His killing sparked mass protests, which led to FITZO's resignation as prime minister at the time. German police have arrested a man suspected
 
-Donald Trump: This could have been settled very easily. Just a half-baked negotiator could have settled this years ago without, I think, without the loss of much land, very little land, without the loss of any lives.
 
-Alexandra Byers: Neither the Ukrainian president nor European leaders were invited to the meeting in Riyadh, a move that's angered many. Volodymyr Zelenskyy postponed a planned visit to Saudi Arabia on Wednesday, saying he didn't want to legitimize the talks.
+## 14. Stabbing at Berlin Holocaust Memorial
 
-Unnamed Speaker: All of this definitely doesn't have a positive impact on Ukraine. They're letting Putin out of isolation. And I think Putin and Russia are really happy because they're involved in discussions. And yesterday, there were signals that they are the victims. That's something new.
+start: 2025-02-22 03:25:04.800, duration: 20.06
 
-Alexandra Byers: Even so, the U.S. is pushing ahead, announcing plans to create teams for peace talks. Washington says it will continue consulting Kyiv and Brussels, but direct negotiations will only be with Moscow. And it's made clear that all options are open.
-
-Unnamed Speaker: In order to bring an end to any conflict, there has to be concessions made by all sides. We're not going to predetermine what those are.
-
-Alexandra Byers: The U.S. has floated Russia, keeping Ukrainian territory it seized, the lifting of sanctions on Moscow and its readmission to the G7, and the blocking of Ukraine's long-sought membership of NATO.
-
-Unnamed Speaker: President Trump was the first and I think the only Western leader who has publicly and loudly said that the one of the root causes of the Ukrainian situation was the impotent line of the previous administration to draw Ukraine into NATO. No Western leader has said that, but he said it repeatedly.
-
-Alexandra Byers: Both the Kremlin and the White House say a meeting between Presidents Trump and Putin is planned for the next month or two, all while the war continues on the ground. After three years of fighting, it's officially claimed 150,000 lives. But international monitors agree the actual death toll is likely to be much higher. Alexandra Byers, Al Jazeera, for Inside Story.
-
-James Bayes: Well, let's discuss all this further with our guests today on the programme. In Washington DC, Anatole Levin, director of the Eurasia programme at the Quincy Institute and a member of the Valdai Club, the Russian think tank. In Moscow, Andrei Kortunov, political analyst, author and former director general of the Russian International Affairs Council. And in Dusseldorf in Germany, Mateja Neles, political analyst and CEO of the German-Ukrainian Bureau, a think tank. Thank you, all three of you, for talking to us. Pretty important developments with regard to Ukraine. Anatole, let me start with you. How significant is what we've seen in Riyadh, not just for Ukraine, but for the global order?
-
-Anatole Levin: Well, it's an immense significance that it seems that the Trump administration wants to bring Russia back into some form of new security architecture in Russia. In Europe. I mean, if that can be achieved, it would be transformative, because this is something that Russians, and not just Russians, I mean, many Europeans as well, have hoped for since the end of the Cold War, but have not achieved. But, of course, this depends on the success of the peace negotiations on Ukraine. And there is an enormous amount which is still not clear. Certain things have been decided, or rather, actually just recognised because they've been clear for many years, such as Ukrainian neutrality. But, of course, so many other things about the details of an eventual peace settlement remain totally unclear, and we still don't know for sure that such a settlement can be achieved.
-
-James Bayes: Andrei, this meeting lasted just over four hours, but how important do you think could be the repercussions going forward?
-
-Andrei Kortunov: Well, judging from the initial reactions that we have received here in Moscow, the Russian leadership feels more or less happy with the outcome of this meeting. Of course, this optimism is qualified. They don't want to inflate public expectations. Therefore, they argue that we are just in the very beginning of a very long road. And they also emphasise the importance of changing the bilateral relationship, specifically the relationship between the United States and the Russian Federation. A lot of emphasis is put on restoration of the diplomatic dialogue. And I think that on the Ukrainian settlement there is probably less optimism and less information that the Russian side can share at this particular juncture.
-
-James Bayes: And, Andrei, you seem to suggest they're playing it rather cool in Moscow, but this must be very good news for Putin and his government.
-
-Andrei Kortunov: Well, you know, again, you know, I don't want to say that the mood is pessimistic, but they clearly tried to manage public expectations, not to create an impression that we are moving towards a new reset. But the overall reaction is clearly positive. And this is a very radical departure from the earlier comments on the U.S. foreign policy and even on the foreign policy of the Trump administration.
-
-James Bayes: Okay. Mathieu, they are worried about this. I think it's fair to say where you are in Germany and across Western Europe. A quote here from Jean-Yves Le Drian, the former French foreign minister. It's a reversal of the state of the world since 1945. Would you agree with that?
-
-Matija Neles: I certainly would agree with that. And we Europeans, we Germans are taken aback by the astonishing speed of what appears to be the normalization of the Russian Federation. Again, after three years of intensive diplomatic pressure by sanctions, military support for Ukraine, we see an upending of the United, you know, Western efforts to bring about an end to this war in Ukraine. And, of course, talks as such were to be expected, but they are now happening. I wouldn't call them negotiations yet. These are talks between Russia and America over the heads of the Ukrainians, over the heads of the Europeans. And that is certainly worrying for us and raises an alarming amount of questions.
-
-James Bayes: Anatole, excuse the pun, but Trump has already given away some of his Trump cards, hasn't he, here, in terms of the negotiation. First, just the fact this talks took place at this level after over three years. This effectively ends Russia's pariah status, ends its diplomatic isolation.
-
-Anatole Levin: Well, I mean, I wouldn't say that. After all, talks had to take place at some stage. And, you know, time is not on Ukraine's side in this war. You know, the Russians are advancing. The Ukrainians are suffering very badly. There is a risk, though we don't know how heavy, but it has been discussed by Western analysts, of Ukrainian collapse. So if you're going to decide on peace talks, there's no point in spinning them out. You might as well, you know, start them at a high level and get on with them. But I think also some of these European fears are greatly exaggerated. I mean, from 1945 to 1991, Ukraine was part of the Soviet Union and Soviet forces were in the middle of Germany, you know, 50 miles from the Rhine and the French border. I mean, nobody is thinking that we're going to go back to that. This will end with a compromise over Ukraine. By the way, I think it's also worth saying that, of course, any imaginable settlement now, I mean, unless, of course, Ukraine does collapse completely militarily, will be far, far short of what Putin hoped for when he launched this invasion in 2022. Both in terms of control over Ukraine, but also in terms later of Russian territorial ambitions.
-
-James Bayes: But Anatoly, but Anatoly, he keeps, we think, at least some territory, possibly all the territory. So his invasion is being rewarded. That is not a principle that we normally have in international law, is it? I mean, the UN Charter says you're not allowed to invade other people's countries.
-
-Anatole Levin: So what did we do against Turkey when it invaded Cyprus in 1974? Did we even expel it from NATO? No, we did not. I mean, the thing is, if you want to expel Russia from the territory it has taken, the Ukrainians have to win on the battlefield and drive the Russians out, which they can't do. And if they go on trying to do it, they will eventually destroy themselves. Or, of course, we can go to war with Russia. But every NATO government, including the Biden administration and all the Europeans, have said that we're not going to do that. So at some stage, one simply has to recognise reality.
-
-James Bayes: Matea, your take on that, recognising reality, that's what's going on here. But yet again, these were talks with no Ukraine. OK, the very, very first round, but no Ukraine even invited to the talks.
-
-Matija Neles: I fundamentally disagree with Anatoly here, because this war is not just about Ukraine. It's about, you know, the European peace order, which now lays in shatters, obviously. And if to reward Russia by accepting, maybe even de jure accepting, forcing Ukraine to accept the occupation and annexation of some of its territories, would completely destroy what's left of the European peace order. And this war is not just about Ukraine. It's about us. It's about principles of changing borders by force. So that's why it's important to repel the Russian aggression. I agree that, you know, right now Ukraine is not in a strong position. But by forcing it into hastily agreed talks and maybe in making deeper concessions will further weaken them. So we have to ask ourselves, what is at stake? And the Europeans are trying to find answers. And we get to that later. But it's worrying that America is turning inwards to China. And Europe has few options but to continue to support Ukraine. Ukraine, let me tell you that, will not accept a forced deal that is negotiated over the heads.
-
-James Bayes: Andre, things moving very, very fast. If you look at the phone call between Trump and Putin, that was on Wednesday, the 12th of February. Six days later, the talks in Riyadh happened. And now Trump is talking about maybe meeting Putin face to face before the end of the month. Well, there are less than 10 days left this month. And it's interesting. It's actually the Kremlin that is walking that back, saying it may not be possible to organise it in that timeframe.
-
-Andrei Kortunov: Well, my guess is that Donald Trump might be in a hurry, but Vladimir Putin is probably not, because the Russian authorities assume that time right now is on their side. They continue advancing in Donbas. They are trying not unsuccessfully to pull Ukrainians out of the Kursk region of the Russian Federation. So I don't think that they feel that there is a sense of urgency. They would like to prepare a summit meeting with Americans, to have these working groups, and to sort out not only the Ukrainian problem, but other problems between Moscow and Washington. So I think that though they do not want to delay the meeting, there is no such sense of urgency in Moscow as it probably is in Washington, D.C.
-
-James Bayes: Anatole, I mean, we knew there would be an economic component to this and the possibility of lifting sanctions, but the official statement from the State Department talks about historic economic and investment opportunities in bringing peace. I mean, is this a bit premature? There would be those arguing that, given Russia was the aggressor, we should be talking about Russia paying reparations.
-
-Anatole Levin: This is where the Europeans will have to be brought in, of course, when it comes to the reconstruction of Ukraine and when it comes to, I would strongly advocate not ending sanctions against Russia, but suspending them so as to have something to hold over Russia's head if it does resume aggression. But clearly, there have to be carrots in any peace negotiations. There have to be carrots as well as sticks. And suspending sanctions and resuming economic ties is one of them. I would say, though, that one thing which has been categorically rejected by the Ukrainian government, and quite rightly, is this extraordinary proposal by Trump that America should get its hands on, well, in effect, the whole of Ukraine's mineral reserves. Thereby, actually, according to Trump's calculations, at least, getting far more for America than America has given to Ukraine in aid. Well, I mean, that, of course, is utterly unacceptable.
-
-James Bayes: Your view on that, Matea, the mineral plan. I mean, I spoke, I was in Munich at the security conference on the weekend. Some Europeans were saying to me this amounts to extortion. Now, a quote here from the former Swedish prime minister, Karl Bilt, blatant exploitation. It certainly looks like it.
-
-Matija Neles: And Zelensky has no mandate to sign away 300 billion or 500 billion worth of Ukrainian minerals and rare earths, some of which are on Russian-occupied territories. So this, even for paying for past or already delivered aid, that's a non-starter. But I generally believe that it was a smart idea by the Ukrainian side to prepare for Trump's government for the incoming administration last year. They developed the peace plan, the victory plan, and they also included this aspect. And knowing that it would appeal to Trump and certainly isn't in a Ukrainian interest and European interest to engage Americans in exploitation of Ukrainian resources. But it has to be a fair and balanced deal. It cannot just be Americans being paid for past eight or in the Ukrainians really want this to be part of a broader agreement. They want this to be part of the security arrangements. They want real security guarantees, maintaining this maybe fragile ceasefire. Without that, we cannot talk about resources or any peace.
-
-James Bayes: Andre, if we look at the possible benefits for Russia economically, sanctions being lifted. And as I said, the State Department talking about economic, historic economic opportunities. This couldn't have come at a better time, could it, for Moscow? Because you live there, you can tell me. But my understanding is the Russian economy is really hurting now. Double-digit inflation. Interest rates standing at 21%, the highest in two decades.
-
-Andrei Kortunov: Well, this is right. But to be fair to the Russian leadership, one has to say that the Russian economic system has demonstrated spectacular resilience to the pressure of economic sanctions. The macroeconomic situation is still under control. We do not have shortages. We do not have unemployment. The exchange rate is not really disastrous. And that's one of the reasons why the Russian public still stands behind the leadership, because many Russians simply do not feel the pressure of the war. But, of course, sanctions bite. It would be wrong to say that they do not affect the Russian economy. And I think that the problem that Russia has is that its economic relations with the West depend primarily on relations with Europe, not with the United States. And even if the United States lifts all the sanctions, which is unlikely, the European sanctions might still be there. And definitely that will be detrimental to the long term future of the Russian economy.
-
-James Bayes: As I said, I was speaking to a number of European politicians in Munich at the weekend, and they all said to me they are still somewhat confused, Anatole, with the US plan, because you have different members of the delegation telling different European leaders different things about where this is going to go. At the talks, you had Mike Waltz, the National Security Adviser, Steve Witkoff, the special envoy. Not there was General Kellogg, who is supposed to be the special envoy for this issue, because Mr Witkoff is the Middle East special envoy. And, of course, Secretary of State Marco Rubio. This might, Anatole, be worth just telling you a little bit about Secretary Rubio, because he used to be a senator. And he seems to have changed his position on Ukraine. Let me just play a clip of what he said back in 2014.
-
-Marco Rubio: They made up this excuse that somehow the Russian-speaking population in the region was being oppressed and attacked and was in danger, and so they needed to intervene. Even to this day, they still will not admit the military role that they are playing on the ground in Crimea. So, in addition to violating this international norm, which is an outrageous behavior, they have lied about it and think they can get away with it. And the point that I'm making is, if in the 21st century, a country is allowed to invade a neighbor, lie about it, and lie about the reasons for it, and they can get away with it without significant costs, we have created a dangerous precedent.
-
-James Bayes: Anatole, can you see why some of the Europeans are confused, because they are getting different messages, not just historical messages from Senator Rubio, but I'm told getting different messages from different members of the Trump team. In the end, is it only Trump that matters?
-
-Anatole Levin: Well, I mean, firstly, in response to Rubio's statement, which you just quoted, I mean, every one of those things could have been said about the US invasion of Iraq. So let's, you know, not pretend that Russia is unique in international aggression and defiance of international law. But as far as the Trump administration is concerned, well, I mean, there are two possibilities, both of which, by the way, could be true. The first is that, as we saw very much in the first Trump administration, it is a mess. You know, it's dysfunctional, chaotic, you have different people with different views clashing with each other. A more positive look at it would say that there's an element of playing good cop, bad cop. You know, some of them say, you know, we need good relations with Russia quickly. Others say, but if Russia is not, you know, actually willing to make peace, well, we can intensify sanctions and so on. I mean, if that's what they're doing, then, of course, that's classic negotiating behaviour.
-
-James Bayes: Andre, one of the things that wasn't mentioned publicly in Riyadh, but we're hearing privately, is a possible part of the plan, is after an initial ceasefire, getting Ukraine to have elections. Now, I assume that is going to be something that will be welcomed in Moscow, where they keep criticising or questioning the legitimacy of President Zelensky, because his official term has run out.
-
-Andrei Kortunov: That's exactly right. If you look at the official Russian narrative, they argue that since the term of Zelensky expired last year, Zelensky can no longer sign any agreements on behalf of Ukraine. And before entering any deal with Kyiv, the Russian side should be sure that the Kyiv leadership is legitimate. That's why they insist on elections prior to signing any kind of political settlement with the Ukrainian leadership. Of course, we'll understand that it is very difficult to have elections right now. But maybe there is a possibility to have elections between a ceasefire and some kind of a final peace agreement.
-
-James Bayes: Mateo, what does Zelensky do now? He tried initially, after Trump took office on January the 20th, to be very diplomatic. That changed this week in Munich. He was much tougher, saying he didn't like what was going on. Since Riyadh, he's now said that Trump is living in a disinformation space and a circle of disinformation. But then Trump is also attacking him and oddly saying that it was his fault that the war started in the first place. What does Zelensky do now?
-
-Matija Neles: It's utterly disturbing to hear Russian narratives spewed out, spewed and repeated by the U.S. president. Wrong claims, 4% approval rating, Trump said Zelensky has. That is absolutely wrong. This is really what we know studying Russian propaganda is what is being repeated. So it's worrying for Ukraine has a weak hand and it has to play this weekend very well. It has to connect with the Europeans and make sure that the Ukrainians are not against elections. Europeans are in favor of elections, but the conditions have to be there in order to execute those. And the conditions are not yet there. And in Germany, in the U.S., I guess it would be the same. Under martial law, elections are very difficult to uphold. And that means millions of people had to flee the country. Millions are in the European Union. There are millions or more than a million servicemen serving the front lines. So just to think about the practicalities of elections in the absence of any sort of security guarantees is impossible. So Zelensky now has to engage the Americans and say, listen, we don't see a plan yet. The Ukrainians and Europeans haven't heard any contours of the plan yet. We hear the desire to come to a quick ending of the war. OK, but what is the how is it being done? What is the role of Ukraine and the Europeans in this process? If you want Americans, if the Americans want Europeans to pay for this, then at least they have to be part of the conception. And again, Ukraine will not accept any deal in which they are not part of the making of the plan. So you really have to sit down and come to an agreement on the basic principles of what a future agreement could look like.
-
-James Bayes: Anatole, I think we'd all agree that Zelensky now has a very, very weak hand in negotiations. He is going to have to rely on the Europeans. What do you think are the chances of the Europeans stepping up and there being any unity from the European side?
-
-Anatole Levin: I mean, the Europeans can, of course, and will no doubt continue their economic and military aid to Ukraine. But, you know, the Paris meeting where Macron was, you know, trying to propose a European peacekeeping force for Ukraine was a, I'm afraid, complete failure. Because the other European countries, including even Poland, you know, which is Ukraine's biggest supporter, simply said that they would not provide troops or others, including Starmer, the British PM, said they would only do so if this force was guaranteed by the Americans. Which the Trump administration had already said America would not do. So the European options are now limited. But as I say, I mean, the critical European role is the economic future of Ukraine and Ukraine's ability to move towards membership of the European Union. That, of course, is something that only the Europeans can decide on and help. And that is something which the Russians have accepted, which must be guaranteed in a peace settlement. And which does, if this can be agreed, this does give Ukraine a path towards membership of the West. In many ways, a more important path than membership of NATO.
-
-James Bayes: Andrei, are there concerns there in Russia of a situation where Ukraine fights on with European support, but not US support?
-
-Andrei Kortunov: Well, of course, there are concerns that the European assistance to Ukraine can even grow. And therefore, this fighting can continue. However, I think that the perception in the Russian leadership is that even if the European assistance continues, it will not change the whole momentum which appears to favour Russia rather than Ukraine. This is the impression you get when you hear what is said in the Kremlin and around the Kremlin.
-
-James Bayes: Thank you very much indeed. Thank you to our guests today on Inside Story, Anatole Leven, Andrei Kortenov and Matija Neles. Comprehensive coverage on the war in Ukraine continues here on Al Jazeera with detailed analysis too at our website, aljazeera.com. As ever, we'd like your views and ideas, go to our Facebook page, that's facebook.com forward slash AJ Inside Story or find us on X where we are at AJ Inside Story. I'll see you here again very soon. Until then, from me, James Bays and the team here, please stay safe and well. Bye-bye for now.
-
-## 11. Al Jazeera Promos
-
-start: 00:42:16.220, duration: 61.4
-
-- **Summary:** Short advertisement promos of the Al Jazeera program, named 'Is it really a natural disaster?' and a program about The Khaled al-Masri.
-- **Key persons:** ['Ali Ray', 'Khaled El Masri']
-- **Summary (ru):** В этом сегменте новостей Al Jazeera обсуждается, почему экстремальные погодные явления приводят к все более разрушительным последствиям, и как человеческий фактор и политизация изменения климата влияют на их интенсивность и восприятие.
-
-Ali Ray: Nature or man-made catastrophes.
-
-Ali Ray: Ali Ray explores why severe weather events are resulting in ever-worsening devastation. Ali Ray: The variety of human factors means their intensity and impact isn't purely natural. Ali Ray: And the politics behind normalising climate change's worst effects. Ali Ray: It's not supposed to be seen as normal, but instead, something that shouldn't be happening to anyone. Ali Ray: Is it really a natural disaster? Ali Ray: All hail the planet on Al Jazeera. Unknown Speaker: So... Unknown Speaker: I'm sorry. Unknown Speaker: amongst it and heaven... Unknown Speaker: Unwraigt. Unknown Speaker: Sir alreadyl, theadata on Al Jazeera. Unknown Speaker: Yes! It's perfect! Unknown Speaker: There's no limit to how far a dream can take you. Unknown Speaker: Star in your own adventure now. Unknown Speaker: Qatar Airways. Unknown Speaker: airways.
-
-## 12. German Election coverage
-
-start: 00:43:17.620, duration: 16.9
-
-- **Summary:** A promo announcing Al Jazeera coverage and analysis of the german federal election.
+- **Summary:** A man was arrested in Berlin after stabbing another man at the Holocaust Memorial, leaving the victim with serious injuries. The motive for the attack is unknown.
 - **Key persons:** []
-- **Summary (ru):** Избиратели в крупнейшей экономике Европы направляются на избирательные участки. На выборах в Германии ожидается, что крайне правые добьются наибольшего успеха с 1930-х годов, что может изменить Европу.
+- **Summary (ru):** Новостной сегмент сообщает о нападении с ножом на человека возле мемориала Холокоста в Берлине. Пострадавший получил серьезные ранения и был госпитализирован, нападавший задержан.
 
-Voters in Europe's largest economy are heading to the polls. With the far right expected to make its biggest gain since the 1930s, the German election could reshape Europe. Stay with Al Jazeera for the latest updates and in-depth analysis of the German federal election.
+### Processed text
+
+Reporter: ...of stabbing another man at the Holocaust memorial in the capital, Berlin. Police say the victim suffered serious injuries and is undergoing surgery. The man was taken into custody close to the scene. Investigators say the motive for the attack is still unknown. Germany's political...
 
 
-## 13. News Headlines Recap
+## 15. German Election and Infrastructure Crisis
 
-start: 00:43:44.220, duration: 269.82
+start: 2025-02-22 03:25:24.860, duration: 186.3
 
-- **Summary:** The news presenter, Nick Clark, recaps the top stories, including the return of Israeli captives' bodies, an upcoming Arab leaders meeting on Gaza, and the war of words between the Ukrainian and US presidents.
-- **Key persons:** ['Nick Clark (News Presenter)', 'Oded Elifchitz (Israeli captive)', 'Sidi Bebas (Israeli captive)', 'Tarek Abouzoum (Al Jazeera Correspondent)', 'Abdel Fattah el-Sisi (Egyptian President)', 'Kamal Bayoumi (Former Egyptian Deputy Minister of Foreign Affairs)', 'Donald Trump (US President)', 'Vladimir Zelenskyy (Ukrainian President)', 'Yoon Suk-yeol (Impeached South Korean President)']
-- **Summary (ru):** В новостном выпуске сообщается о передаче тел четырех израильских заложников, убитых в Газе, для судебно-медицинской экспертизы, а также о предстоящей встрече арабских лидеров для обсуждения плана по Газе и реакции на план Трампа. Также упоминаются словесная перепалка между Зеленским и Трампом и продолжающиеся бои в Украине.
+- **Summary:** German political parties held final campaign rallies ahead of the general election, with the CDU-CSU bloc leading. A major issue facing the next government is Germany's deteriorating infrastructure, including bridges, roads, and railways, estimated to cost $600 billion to fix.
+- **Key persons:** ['Sepp Wassen (Reporter)']
+- **Summary (ru):** Репортаж посвящен предстоящим выборам в Германии и проблемам, с которыми столкнется новое правительство, в частности, ухудшающемуся состоянию инфраструктуры страны. Обрушение моста в Дрездене стало символом этой проблемы, подчеркивая необходимость срочных реформ и инвестиций.
 
-Nick Clark: Hello, I'm Nick Clark in Doha. The top stories here on Al Jazeera. And the bodies of four Israeli captives released from Gaza have been taken to a forensic centre in Tel Aviv. Among them are Oded Elifchitz, Sidi Bebas, and her two children, who were nine months old and four years old when they were taken during the October 7th attack. Israeli authorities will identify the bodies and determine the circumstances of their deaths. Hamas says they were killed by Israeli strikes. It marks the first time deceased captives have been released from Gaza since the ceasefire came into effect last month.
+### Processed text
 
-Tarek Abouzoum: Tarek Abouzoum is following developments from RAFA in southern Gaza. This development has seen us a critical symbolic step in the current ceasefire process where the handover of the four bodies today to the International Committee of the Red Cross reflects Hamas' willingness to completely engage seriously in the second phase of the ceasefire deal and giving clear indication that they are ready to be engaged also in diplomatic dialogue that will facilitate a very smooth transition for the second phase of negotiations, for the second phase of the ceasefire deal.
+Parties are holding their final campaign rallies ahead of Sunday's general election. The conservative CDU-CSU bloc is leading opinion polls with around 30% of the vote. But all parties have refused to work with the far-right, AFD, which has recently surged in popularity. Germany is likely to face weeks of negotiations before parties can form a coalition government.
+But one of the most urgent tasks for the next government is to fix Germany's ailing infrastructure. Europe's economic powerhouse wants an example of efficiency and punctuality is outdated. Sepp Wassen reports from Dresden.
+A few minutes after the last tram passed one night in September, the 55-year-old Carola Bridge collapsed into the River Elbe. Nobody was injured, but the broken bridge has become a symbol for the dire state of Germany's infrastructure.
+I am almost 80 years old, and I have never experienced that a bridge collapses, not even during socialism. It's unbelievable. It's all been neglected.
+5,000 highway bridges are said to be in critical state. 7,000 kilometers of motorways and 4,000 kilometers of train tracks are in urgent need of repair. Traveling in Germany has become a challenge with long traffic jams and trains often cancelled. This in a country famous for its punctlichkeit, punctuality.
+When we talk in school about German characteristics, punctuality is still one of them. But I think this is wrong. Nobody seems to care anymore.
+Germany was once seen as an economic miracle, quickly recovering and booming after World War II. Its industrialization and design became an example to others. But the infrastructure has aged, and maintaining it has not been a priority. Yes, it impacts the economy and the whole society. Yes, it impacts the economy and the whole society.
+values in Germany is let's say trustable infrastructure and if you if we lose this we lose everything it's the basis of our society not only Germany's physical infrastructure is broken or kaput as they say here the transition to a digital economy has been slow as well with internet connections often poor and many businesses only accepting cash many say Germany is seriously lagging behind some parties say a controversial debt break needs to be lifted for the country to move forward but the Christian Democrats who are leading the polls don't agree they say cutting red tape is the answer all this was fine during peace times during times of economic welfare but now we have to definitely address the reforms so no more business as usual if the country wants to get back on track and compete globally by reviving its famous model of punctlichkeit stepfast in Al Jazeera Dresden you can find more information on our website how to zero dot com and all your media devices
+The weather is next, followed by Inside Story. Stay with us and thanks for watching.
 
-Nick Clark: An emergency meeting of the Arab leaders is due to take place in response to Donald Trump's plan to take control of Gaza. Security sources say that Egyptian President Abdel Fattah el-Sisi is set to travel to Saudi Arabia on Thursday to discuss an Arab plan for the Strip. The plan may include up to $20 billion from the region for reconstruction.
 
-Kamal Bayoumi: Kamal Bayoumi is a former Egyptian Deputy Minister of Foreign Affairs to the European Union. He says Arab leaders will not agree to Trump's plan to get Palestinians to leave Gaza. I evaluate this event like the following. If they agree on a date and they meet, this is one step forward. If they agreed upon the agenda and a common declaration, then another way or another step for success. But the success, really, in my opinion, it is a big no we are giving to Mr. President Trump. Because, really, I do not envy him at all. He is a man with many experts around him, and he doesn't care to ask for an opinion. This is the first time in history that we are asking people of a country to leave their own country to let another people coming from Russia or China or Europe or even United States to come and to replace them.
+## 16. Weather Report - South Asia and East Asia
 
-Nick Clark: A war of words has erupted between the presidents of Ukraine and the United States. Vladimir Zelenskyy hit back at scathing criticism from Donald Trump, who branded him a dictator and blamed him for the war in Ukraine.
+start: 2025-02-22 03:28:48.740, duration: 146.28
 
-Vladimir Zelenskyy: We stand strong on our two feet. I rely on Ukrainian unity, on our Ukrainian courage, on our relations with partners, on our European solidarity, and on America's pragmatism. Because America needs success just as much as we do. Success brings us together. Our unity is the strongest safeguard of our future. A future not with Putin, but with peace. And this is a choice for the whole world, especially for the strongest nations, to stand with Putin or with peace. The right choice is peace. I thank everyone for their support.
+- **Summary:** The weather report covers South Asia, showing mostly clear skies with some thunderstorms in eastern India and Sri Lanka. East Asia is experiencing wet weather moving towards Shanghai, with colder temperatures and snow expected in northern China and Japan.
+- **Key persons:** []
+- **Summary (ru):** В выпуске новостей представлены прогнозы погоды в Южной Азии и Восточной Азии, включая предупреждения о грозах в Индии и прогнозы осадков в Шри-Ланке. Также в сегменте обсуждается продолжающийся конфликт в Демократической Республике Конго и его потенциальная эскалация.
 
-Nick Clark: Meanwhile, fighting is continuing on the ground. A top Russian military official says troops are making advances in the Kursk region. It's been occupied by Ukrainian forces for nearly six months. Yoon Suk-yul has become South Korea's first sitting president to face a criminal trial. He was arrested last month for insurrection after briefly imposing martial law. Yoon could face life in prison or the death penalty. Rights groups have raised concerns about the safety of migrants deported from the US to Panama. Panama's government has agreed to take in and organise a repatriation of those from countries refusing to accept deportation flights from America. Migration lawyers say sending them home could be dangerous. Local media says that the migrants are being detained in a hotel in Panama City. All right, we're up to date with the headlines. Got more news coming up after the El Masri case.
+### Processed text
 
-## 14. The El Masri Case Documentary Promo
+Hello there.
+The weather's looking very settled across South Asia at the moment.
+But barely a cloud in the sky for much of India and Sri Lanka.
+A few showers kicking off towards the east.
+They will turn into some thunderstorms.
+We have got warnings out in Odisha and West Bengal with a chance of lightning with those.
+The wet weather extends from the northeast of India where it picks up on Sunday through across into Bhutan and Nepal.
+But it's much drier as we push into Pakistan, that west coast of India.
+We are expecting some wet weather to arrive in Sri Lanka.
+Colombo seeing those thunderstorms on Monday afternoon.
+And the wet weather is set to slip its way further east towards Shanghai from western parts of China.
+Some snow expected on the mountains here.
+Yeah, the wetter weather pushing its way further south into Taiwan as well.
+Across the north of China, it's colder but clearer with sunshine in Beijing,
+extending across into the Korean Peninsula as we go into Sunday.
+But it is set to get colder.
+And with that, we're set to see some wintry weather sweep again into Japan
+with some heavier snow falling in Hokkaido,
+but some touching down into Honshu on Sunday.
+As the cold winter weather continues, people in Gaza have no choice
+but to find what little shelter they can.
+Understanding the reality.
+We are alive. African art is alive.
+Reporting from the action.
+Everybody we've spoken to wants peace, but many of them don't want peace at any cost.
+Al Jazeera's teams across the world bring you closer to the heart of the story.
+Fighting is intensifying in Eastern Democratic Republic of Congo.
+The Rwanda-backed M23 group is making further territorial advances.
+So, with diplomacy failing, what are the risks the conflict may escalate
+into another regional war?
+The Rwanda-backed M23 group of people are looking for such a result of such a thing in common
 
-start: 00:48:14.040, duration: 1666.18
 
-- **Summary:** A promo is shown, about the kidnapping and torture of German citizen Khaled El Masri by the CIA in 2004 and how it ruined his life.
-- **Key persons:** ['Khaled El Masri']
-- **Summary (ru):** В новостном выпуске сообщается о возвращении тел четырех израильских заложников, освобожденных из Газы, для судебно-медицинской экспертизы. Также обсуждаются экстренная встреча арабских лидеров по плану Трампа в отношении Газы и конфликт между президентами Украины и США.
+## 17. Inside Story: DRC Conflict Escalation
 
-The bodies of four Israeli captives released from Gaza have been taken to a forensic centre in Tel Aviv. Among them are Odeda Lifshitz, Sidi Bibas and her two children, who are nine months old and four years old, when they were taken during the October 7th attack. Israeli authorities will identify the bodies and determine circumstances of their deaths. Hamas says they were killed by Israeli strikes. Tarek Abu Azum is following developments from Rafa in southern Gaza. This development has seen as a critical symbolic step in the current ceasefire process, where the handover of the four bodies today to the International Committee of the Red Cross reflects Hamas' willingness to completely engage seriously in the second phase of the ceasefire deal, and giving clear indication that they are ready to be engaged also in diplomatic dialogue that will facilitate a very smooth transition for the second phase of negotiations, for the second phase of the ceasefire deal. An emergency meeting of Arab leaders is due to take place in response to Donald Trump's plan to take control of Gaza. Security sources say that Egyptian President Abdel Fattah el-Sisi is set to travel to Saudi Arabia on Thursday to discuss an Arab plan for the Strip. The plan may include up to $20 billion from the region for reconstruction. A war of words has erupted between the presidents of Ukraine and the United States. Vladimir Zelenskyy hit back at scathing criticism from Donald Trump, who branded him a dictator. 
+start: 2025-02-22 03:30:57.000, duration: 174.92
 
-Zelenskyy: We stand strong on our two feet. I rely on Ukrainian unity, on our Ukrainian courage, on our relations with partners, on our European solidarity, and on America's pragmatism. Because America needs success just as much as we do. Success brings us together. Our unity is the strongest safeguard of our future. A future not with Putin, but with peace. And this is a choice for the whole world, especially for the strongest nations, to stand with Putin or with peace. The right choice is peace. I thank everyone for their support. Meanwhile, fighting is continuing on the ground.
+- **Summary:** Inside Story examines the escalating conflict in the Democratic Republic of Congo, with Rwandan-backed M23 rebels advancing rapidly. The program explores the regional implications and the risk of a wider conflict, focusing on the historical context and involvement of multiple countries.
+- **Key persons:** ['James Bayes (Host)', 'Dmitry Medvedenko (Reporter)', "Huang Xia (UN Secretary General's envoy for the Great Lakes)"]
+- **Summary (ru):** В Демократической Республике Конго растет беспокойство из-за продвижения повстанцев M23, поддерживаемых Руандой. Конфликт может перерасти в более масштабный региональный кризис, в котором задействованы несколько стран, включая Уганду, Бурунди и Южную Африку.
+
+### Processed text
+
+This is Inside Story.
+Hello again, I'm James Bayes. In the Democratic Republic of Congo, anxiety is growing in the capital Kinshasa. Rwandan-backed M23 rebels are advancing in the east, spreading out across north and south Kivu, and are now aiming for the city of Uvira. This is happening at such a rapid pace that it's stirring up memories of events of three decades ago. Many regional players are involved, including Uganda, Burundi and South Africa, and that's causing concern the conflict could spread beyond the DRC. Can M23 rebels push all the way to Kinshasa?
+More on this in today's programme, which we begin with this report from Dmitry Medvedenko.
+In Uvira, everyone is running away, says the man filming this video as gunfire is heard.
+So, let's throw it to Kinshasa, why can we go abroad?
+How about the CDC?
+We don't know where to prepare.
+Correct, I will use it to build up.
+We don't know where to prepare the current current sources of water.
+So, we don't know how to prepare.
+We don't know how to prepare, but we can prepare for some of these resources.
+Local militia fighters urge people not to panic as Congolese army troops retreat from the area.
+Rwandan-backed M23 rebels are advancing on this town by Lake Tanganyika that borders Burundi, about 80 kilometers south of Bukavu.
+The rebels took control of Goma in January and then Bukavu in southern Kivu weeks later.
+The pace at which M23 has been advancing has alarmed people in the capital, Kinshasa, 1,500 kilometers away.
+The government must take its responsibilities, review how the army functions and restore the chain of command.
+For example, the town of Bonagana was taken without any effort, as was Minova.
+I call on the head of state not to negotiate.
+We must fight against them.
+If someone hits you, what should you do?
+We must fight back.
+The UN says the war has forced hundreds of thousands of people from their homes.
+South Africa has been sending additional troops to join the Congolese army in fighting M23 after 14 of its soldiers.
+That has been waiting for many reasons.
+It is a strong leading vol.
+American war.
+The World.
+14 of its soldiers.
+It is a strong reprendre.
+That is a strong fight for the south.
+That is a strong fight for the public.
+That is a strong fight.
+It is a strong fight.
+It is a strong fight for the nation.
+were reported to have been killed last month the presence of burundi forces on the ground is fanning fears the fighting in congo could expand into a larger regional conflict the commitment to a political solution is one that is uh unwavering first of all for the drc but also for all countries of the region as well as for the security council so i think it is an important takeaway to say that everyone is committed to a political solution the fighting must end and for that the rwandan troops must withdraw the democratic republic of congo and the united nations say rwanda supports the m23 rebels with arms and troops the congolese government also says kigali is using the group as a proxy army to capture the country's resources in the east worth trillions of dollars dimitri medvedenko al jazeera for insight story
+
+
+## 18. Inside Story Panel Discussion: DRC
+
+start: 2025-02-22 03:34:15.080, duration: 1568.46
+
+- **Summary:** Panelists discuss the M23 advance, Rwanda's involvement, and the geopolitical implications. They discuss the diplomatic failures, and the need for international pressure on Rwanda.
+- **Key persons:** ['James Bayes (Host)', 'Kambale Musavuli (Researcher, Center for Research on the Congo)', 'Angela Mavumbo Selstrom (Senior Researcher, Nordic African Institute)', 'Abdullahi Halakhi (Peace and Policy Analyst, Senior Advocate at Refugees International)', 'James Kabarebe (Minister of State for Regional Cooperation)']
+- **Summary (ru):** В этом сегменте новостей обсуждается эскалация конфликта в Демократической Республике Конго (ДРК) и роль Руанды и других внешних сил в поддержке повстанческой группировки М23. Эксперты оценивают причины возобновления конфликта, вовлеченность соседних стран и потенциальные пути к мирному разрешению ситуации.
+
+### Processed text
+
+well let's discuss all of this now with our panel of guests today and in akra in ghana we have
+cambale musavuli a researcher the center for a search on the congo in upsala sweden angela
+mavumbo selstrom she's a senior researcher at the nordic african institute and in washington dc
+abdullahi halakhi is a peace and policy
+analyst and senior advocate at Refugees International. Thank you all of you for joining
+us today. Angela, let me start with you. Are you surprised by what we've seen this year?
+Are you surprised by M23's progress? I'm not surprised, actually. I mean, M23 has
+grown in stature and in scale and size in the last five years or so. The negotiations that
+were ongoing and led by Angola in December of 2024 broke down. And that was partly because
+there was a sort of a dispute between the government of the DRC and other actors involved in the
+process about the inclusion of M23 in negotiations. The result of the last months are also partly
+a reflection of changes in the geopolitical landscape. And I think for M23 and for other
+actors, it's evident geopolitically that there is an opportunity.
+now to actually go on in terms of military goals and objectives and move quite rapidly towards
+crossing certain boundaries that have existed in the past when external actors would have
+been much more reluctant to allow or to permit encroachment on territorial sovereignty of a
+state. Kambale, let me bring up one of the absolute central issues, if I may, which is the
+involvement of Rwanda. Rwanda says it's not backing the M23. Everyone from President Paul Kagame down
+is saying that. What is the reality? Because I don't think there's anyone in the international
+community who now believes that. I believe for President Paul Kagame, he actually stated that
+he doesn't know if his troops are in the DRC or not. And for everyone, the evidence is already
+presented. We have drone surveillance, video evidence, photographic evidence, and people
+on the ground who have confirmed this. So it's no longer an allegation. It is clear that thousands
+of Rwandan troops from the Rwandan Defence Forces
+are in the DRC.
+OK, well, let me interrupt you there, if I can, Kambale.
+Do we have estimates of the numbers?
+How many Rwandan troops do we think are there?
+How many M23 fighters do we think they are backing,
+just to be clear?
+The UN Group of Experts has quoted that since last year
+at least 4,000 Rwandan Defence Force soldiers
+are on Congolese soil.
+And they submitted this evidence to the UN Security Council.
+What we have seen so far, there has not been strong actions
+up until yesterday.
+Yesterday, the U.S. Secretary of Treasury
+or the Treasury Office in the United States
+put sanction on a former Rwandan general
+who is currently the Minister of State
+for Regional Cooperation, James Kabarebe,
+and his name is part of the Rwandan Defence Force soldiers
+retired and active who have been listed
+in the UN Group of Experts report
+as the commanders or the liaison
+within the Rwandan army to the M23.
+So, seeing that action is a path in the right direction.
+But as you read it, at least for Congolese,
+we are saying that the statement is still...
+doesn't still sit well with Congolese because in Haiti says that James Kabarebe has been active
+for the past 30 years, three decades. This tells us that the United States government has all
+information they need or require to actually take action, but for 30 years they have not taken
+action. And I hope this step in the right direction is a path to justice. So, action in
+terms of some sanctions from the US, but the Security Council, Abdullahi, which was
+meeting on Wednesday, the UN Security Council, has not taken action. It's certainly discussed
+this quite a few times. In that meeting, the most recent meeting on Wednesday, the UN Secretary
+General's envoy for the Great Lates, Huang Sia, said the risk of a regional conflagration
+is more real than ever. History is repeating itself. I think it might be useful for you
+to just explain the history of the 1990s for us and what's at stake.
+I think what's at stake is the regional stability of the Red Lakes region. This is not the first
+time, Ruan. These are intervening.
+in the territorial integrity of the Democratic Republic of Congo, you know, towards the end of
+the Cold War, when the former president of the Democratic Republic of Congo, formerly known as
+Zaire, was overthrown through a combination of Ugandans and Rwandans, and James Kaberebe played
+a significant role in that. After that, when Rwandans, Rwandese, and Ugandans, but especially
+the Rwandese, thought that they have installed their man in the form of Kabila Sr., he turned
+against them, or at the very minimum, the Rwandese saw them being marginalized, and therefore
+they launched another military attack to overthrow him in 1998, I think in August. But that brought
+in so many African militaries in what was defined then as Africa's world war, where, by some
+estimate, almost 5.4 million people died. I think we have not resolved some of those tight
+notes that really led to that conflict, where Rwand, I think, at the very minimum considers.
+that it faces an existential threat from the government
+that was in power, that was deposed in 1994,
+that is, inside the eastern part of the DRC,
+and the question of the Rwandese, or at the very minimum,
+the Tutsis, called Banyamulenge,
+that occupy the regional eastern part of the DRC.
+OK, I want to interrupt you there,
+because I want Angela to take up the story.
+Since then, and I think throughout history,
+the eastern part of DRC has had very weak control
+from the capital, Kinshasa.
+It's more than 1,000 kilometres away,
+and it's been a conflict zone ever since, hasn't it?
+That's right. It's been a conflict zone ever since.
+And, I mean, even just for the ostensible period
+that we're discussing, I mean, it's been impossible
+for Kinshasa, through successive governments and elections,
+to have full territorial control over that region.
+Nonetheless, I think that the population in eastern DRC
+has been kind of like a football,
+being kicked back and forth
+between externally supported armed groups,
+like M23 and the eight, the, the, there's,
+Allied Defense Forces, the ADF, backing by different regional actors, but that's also
+resulted in mass displacement.
+Over 1.5 million people have been displaced regularly, and scales—I mean, huge—a large
+scale of human rights violence, including sexual violence.
+The combination of this and the fact that the Kinshasa government hasn't been able to also
+implement strong governance institutions in Eastern DRC has further left the population
+sort of prey to the predation of external actors, of external armed groups, as well as, of
+course, the number—I mean, the over 100 militias and rebel groups and civil defense
+units, and it's a highly militarized area.
+I would argue that it is likely that the situation will worsen, but I don't really think it's
+going to become—
+World War III for Africa again.
+I don't think we'll see a complete repeat.
+I think we'll see something different than we saw in the 1990s
+and late 1990s.
+Let me bring in Kambale.
+If we look at M23, they have been around for some time
+and they did take GOMA once before in 2012,
+only for a short period.
+And then there was a special enforcement wing
+of the UN Force Munusco called the Force Intervention Brigade
+deployed with an offensive mandate
+and they were pushed down and pushed back into Rwanda.
+It's so different this time, isn't it?
+Because I'm on my list here.
+Tell me if I've left anyone out.
+The forces that were in Eastern Democratic Republic of Congo,
+you had Munusco, the UN peacekeeping force,
+on paper 11,000 strong, although they weren't in South Kivu,
+which is where M23 have now gone.
+You've got the Congolese Armed Forces.
+You had mercenaries reportedly from Romania and France
+that had been hired by the Congolese.
+You had another peacekeeping force
+from the South African development community.
+That's the regional grouping that was called SAMI DRC.
+GESITALA
+GESITALA
+GESITALA
+GESITALA
+died. And you had troops from the neighbouring country Burundi, more than 10,000 soldiers
+there from Burundi. And M23 has ploughed ahead, have they not, Kambali, and succeeded despite
+all of those different forces? For all intended purposes, the M23 is the
+run of defence forces. I mean, when you read the UN report, it's quite clear about what
+is happening. We are fighting a superb military that's able to jam GPS system. What does
+that mean? It means that the Congolese army cannot fly their planes in the area where the
+rebels are. Who has this technology? The Rwandan military. We have a short-right system, right,
+the short-air defence system used by the M23. You have not vision goggles. According to
+an African intelligence newspaper, they have actually mentioned that the taking over of
+the city of Goma was done with support of assault drones. Even Antonio Guterres, the UN Secretary
+General, in an interview with Frantz Van Katz, stated that the M23 have much more sophisticated
+weapons of the weapons of the U.S. and the U.S. and the U.S. and the U.S. and the U.S.
+that even the U.N. forces.
+So, it's the context to look at what is actually happening there.
+Now, as you talk about the different armies involved,
+they've come with different mandates.
+The force intervention brigade that came in 2012
+was actually an action of SADC,
+where the U.N. did not want this force
+to be outside of the U.N. jurisdiction.
+That's how they were actually added.
+So, what we've seen over the years
+is that SADC nations have supported a path to peace
+from a military perspective to bring about that.
+But I'm also clear that the path to peace
+is not going to come to military means, right?
+It's going to come to diplomacy.
+In 2012, what stopped the M23 was aggressive diplomacy.
+Now, what are we talking about?
+Western nations and international institutions,
+such as the World Bank, the African Development Bank,
+all availed aid to Rwanda.
+That single action caused the diplomatic pressure internationally
+for reigning in Rwanda.
+Right now, that type of action has not reached.
+We strongly believe, because of Rwanda's economy,
+because of Rwanda's military support
+from the Western nations,
+that it's essential.
+I'm sure for them to take similar actions, to rein in Rwanda, to be able to go back to
+the negotiating table, to discuss about peace and stability.
+But a military solution will not end the conflict.
+It's diplomatic means.
+Let me bring in Angela on that point.
+I mean, is there anything militarily that can stop M23?
+One of the things I noticed when they took Bukavu, they also took Kavumu, which is apparently
+a big airport, which cuts off all of the supplies to the Congolese army.
+That's right.
+I mean, I would just have to agree with the others that I think that it is a question of
+really being able to militarily engage and disarm, not just necessarily disarm, but neutralise
+Rwanda, persuade and create incentives for the Rwandan government to in turn contain and
+control M23.
+I think that, diplomatically, there are a lot of weaknesses in such an effort.
+You know, Burundi has withdrawn some of its forces.
+I don't know if the reports from this week are true or not.
+They've withdrawn, I believe, 10,000 of those forces.
+Uganda, on the other hand, is deploying a bit more.
+I think there's still quite a lot of uncertainty and back and forth.
+And the region, I believe, would like to have a sort of status quo settlement.
+But I think that the real pressure has to come from even further outside of the continent.
+It will have to come from U.S. further strengthening its negative message
+against Kigali to contain Kigali and to persuade Kigali to control M23.
+And really, that is really the lever that needs to be pressed in order for all of these actors
+to go back. I mean, there was some consensus between the East African community and the
+Southern African development community around the diplomatic process to go for proceeding.
+I think that that consensus could hold. But I do believe that there are major concessions
+that Kinshasa will have to make. And ultimately, it will—there will have to be some sort of—
+A negotiation that really takes into account the interests of Rwanda, the interests of M23,
+the territorial integrity of the Congolese people and of the government in Kinshasa.
+But that will be diplomatic and a political process.
+But without strong, strong leverage against Rwanda, we will not get there.
+Abdullahi, in terms of the M23 and where they are moving, they seem to be moving south, Uvira,
+and that is right on the border with Burundi, on the shore of Lake Tanganyika,
+less than 30 kilometres away from Bujumbura, which is the main city and used to be the capital.
+I mean, we're involving more and more countries.
+We'll come on to Uganda in a minute, but more and more countries...
+I mean, they already had troops there, Burundi,
+but more and more countries are getting directly involved.
+Refugees are streaming into Burundi.
+Yes, it is.
+I think even while we are discussing the large strategic issues at play,
+what we shouldn't lose sight of is the people who are paying the ultimate price are the Congolese,
+the children and women in the DRC.
+Last year, I was in Goma.
+I met women.
+you know, like not a single one of them who has not experienced, you know, sexual and gender-based
+violence. And some of them told me, the people who committed these are people who are as young
+as my children. So I think we shouldn't lose sight of that. But I think to your question around
+Burundi, it's the fact that Burundians, Burundi and Rwanda doesn't enjoy a good relationship
+because there is a rebel group that is based inside the DRC that the Burundians think are
+being supported or alleged they are being supported by Rwanda to destabilize Burundi. So therefore,
+they are not just the interests of the DRC, there are other moving interests of other countries that
+are using the DRC as a base from where they destabilize not just the DRC but countries in
+the region. But fundamentally, though, we have to get back to the question of
+what is in the interest of DRC. Everybody has their own interest, but DRC also has its own
+interest. And I think, fundamentally, the citizens of DRC who continue to endure
+egregious human rights violations, women and children being raped consistently as a tool of
+war by various actors, including allied militias that work with the DRC government. That has to
+stop. It doesn't matter how insecure Rwanda feels, but I think the people of the DRC, especially in
+the East, deserve much more than it is getting right now. Kambale, earlier Angela mentioned
+briefly Ugandan forces, because we've got Burundi now and then Uganda. They've gone to the capital
+of Ituri province, Bunia. Do we think, because in the past they have been allied with Rwanda,
+but they've also recently been in support of the DRC. Do we know exactly what Uganda is doing there?
+I'm sorry to keep referencing the UN group of experts, because they've been very clear and
+sharing the evidence. Right now, the M23 have been training in Kampala, according to the UN group of
+experts. Not only that, that they've been entering the DRC from the Ugandan border.
+So you are suggesting that Uganda is on the side of Rwanda?
+Yes, but it's not me. It's the human group of experts presenting that to us at the Security Council, right?
+It's not an opinion for myself. It's the facts on the ground, right?
+So, we do know that UPDF commanders, that's the Ugandan People's Defense Force, the military,
+have been instructors in the camps where the M23 is training.
+We also know that M23 crosses the border of Uganda to DRC
+without being stopped by a Ugandan government, military, or border patrol, or whatever they may have.
+And a recommendation from the UANA group of experts is that the Ugandan government need to take action
+around the evidence that's been presented to them, which they have not.
+So, I will not be surprised to see another front actually created on the top.
+But I think it's important to point out the last intervention about the interest of the Congolese.
+The interest of the Congolese lies into Patrice Lumumba's Independence Day speech, where he says
+is that Congo's minerals, Congo's land, Congo's resources, should belong to the Congolese
+people.
+It should be exported for the benefit of the people.
+What we are seeing is not that, right?
+As we are talking about killing the interests of foreign nations, Iran, what they need in
+the country, mineral resources needed for the fourth industrial revolution continue to come
+out of the Congo.
+Congo's cotton is being exported, Congo's lithium is also being exported, gold and so
+on, right?
+So we must know, as we even talk about the complexity of the conflict, that in the real root cause
+is control of Congo's mineral wealth.
+And it has appeared over Congo's history in multiple forms.
+So to address that is for nations who are consuming these minerals to hold corporations
+accountable.
+That's why seeing the sanctions around James Kabarebe, where he pointed out very clearly,
+right?
+This Rwandan defense minister is facilitating the export of minerals from DRC to the outside
+world.
+No speculation.
+This is why we are sanctioning him, putting the names of the companies, right?
+The Kingston holding register in Paris, I believe, and also in the UK, that it shouldn't be presented
+as a mysterious...
+No.
+No.
+No.
+No Atlantis.
+No.
+No!
+No.
+No.
+No!
+No!
+No!
+He point.
+No!
+It doesn't even mean, you know what?
+No!
+No!
+No!
+No.
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+I mean!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+No!
+Well, we do not know the actors, we do not know the companies,
+Africans are wantonly killing each other.
+OK.
+That we need to talk with the people involved.
+Angela, I was interested to read that some embassies in Kinshasa,
+Western embassies, including the US and the UK,
+have evacuated most of their staff
+because they're worried about the situation.
+I mean, do you think there is any possibility
+M23 may want to push all the way to the capital?
+And just a quick point of geography,
+that's over 1,500 kilometres away.
+But, of course, there is the precedent of 1997, isn't there?
+Yes, that's true.
+But it was a different time.
+I mean, the government in the Kinshasa,
+the DRC government was significantly weaker, I think,
+and had less experience with waging a kind of dance
+dance with Rwanda, with Kigali at that time.
+In this regard, I think that I'm very sceptical
+that M23 will go all the way to Kinshasa.
+I don't think it needs to go
+all the way to Kinshasa.
+I mean, I think it needs to threaten, too.
+I think that the threat of its military success and its control of Eastern DRC and its success
+so far and its support from regional players really will create a kind of another lever,
+a kind of lever, a negotiating position with Kinshasa.
+I do believe that the real ambition here is to have control of Congo's rare minerals,
+particularly from that part of the region.
+I know that M23, just alone in taxes, I think, paid to it for extraction of some critical
+minerals makes almost a million dollars a month or more just from that, not from the
+actual costs of actual profits.
+It's a kind of enslavement of the people of the Congo to production and extraction of
+these minerals and to the global sort of financial system that supports it, the extraction.
+But I don't believe that M23 can actually go all the way to Kinshasa.
+We will see, though, I mean, if the U.S. doesn't really engage.
+If there's not enough international pressure, I think between now and the next few months, then perhaps I would change my mind.
+But simply by putting more pressure, like they did, I think, in 2012, a similar situation occurred, and there was significant pressure from the U.S., and that pulled back M23 occupation of Goma then.
+So I'm a bit more sceptical.
+Thank you very much, Angela.
+Thank you to all our guests today, Kambale Musavuli, Angela Mavumba-Selstrom, and Abdullahi Halaki.
+Thanks so much for watching.
+Remember, you can always see this programme again and all our recent additions by visiting the Inside Story page at aljazeera.com.
+We're on Facebook.
+If you'd like to post your comments, facebook.com forward slash AJ Inside Story.
+Or if you prefer to use X, look for at AJ Inside Story from me, James Bayes,
+and all the production team, please.
+Stay safe and well. Bye-bye for now.
+Protest crackdowns enforced disappearances and corruption.
+The first demonstrations were about the cost of living.
+Unfortunately, that lives had to be lost, but it was not that...
+Yeah, the way you talk, lives had to be lost.
+No, lives were taken, right?
+People were shot in the head.
+Mehdi Hassan goes head-to-head with Kenyan politician Kimani Ishingwa.
+Kenyans are furious. You know this.
+I have never had to afford anything because I have nothing to afford.
+But people in your party have.
+You're worth about $7 million.
+Head-to-head on Al Jazeera.
+Being a journalist is a privilege.
+I get to the heart of the story,
+amplify the voices of those who have been drowned out by the noises of war.
+It's my driving force.
+It's what pushes me to take risks.
+We're just going to try to take a safer position.
+Digging deep, trying to find the gritty truth,
+it's a challenge and a huge responsibility.
+We keep politicians and decision makers in check.
+Show the devastating human cost of their decision.
+Working at Al Jazeera enables me to make the other voices relevant.
+To show that there's more that unites us than divides us.
+
+## 1. Introduction and Gaza Hostage Situation
+
+start: 2025-02-22 04:00:27.000, duration: 40.7
+
+- **Summary:** The broadcast begins with updates on the Gaza hostage situation. Hamas reportedly handed over the wrong remains of an Israeli captive, leading to accusations from Israeli PM Benjamin Netanyahu and an investigation by Hamas.
+- **Key persons:** ['Kerry Johnson (Anchor)', 'Shiri Bibas (Israeli captive)', 'Benjamin Netanyahu (Prime Minister of Israel)', 'Noor Ode (Reporter)']
+- **Summary (ru):** Новостной сегмент сообщает о том, что Хамас передал останки израильской пленницы Шири Бибас Красному Кресту, но премьер-министр Израиля Нетаньяху обвинил группу в нарушении соглашения о прекращении огня. В Израиль была направлена судебно-медицинская группа для подтверждения личности тела, и Хамас начал расследование ошибки.
+
+### Processed text
+
+Kerry Johnson: I'm Kerry Johnson in Doha.
+Kerry Johnson: The top stories now in Al Jazeera.
+Kerry Johnson: Hamas says it's handed the remains of Israeli captive Shiri Bibas to the Red Cross after
+Kerry Johnson: Israel's Prime Minister Benjamin Netanyahu accused the group of violating the ceasefire
+Kerry Johnson: deal by returning the wrong body on Thursday.
+Kerry Johnson: Israel says a forensic team has been sent to confirm the identity of the body.
+Kerry Johnson: Hamas has launched an investigation into the error.
+Kerry Johnson: Noor Ode reports from Jordan's capital, Oman.
+
+
+## 2. Hostage Remains Mix-Up and Upcoming Exchange
+
+start: 2025-02-22 04:01:07.700, duration: 94.98
+
+- **Summary:** Forensic teams in Israel are working to identify remains handed over by Hamas. A larger exchange of Israeli captives and Palestinian prisoners is scheduled for Saturday, concluding the first phase of the ceasefire agreement.
+- **Key persons:** ['Shiri Bibas (Israeli captive)']
+- **Summary (ru):** Власти Израиля и Палестины запретили Al Jazeera вести репортажи с территорий Израиля и Западного берега. Обсуждается передача останков израильских заложников, удерживаемых ХАМАС, и предстоящий обмен пленными и заключенными между Израилем и Палестиной.
+
+### Processed text
+
+She's there because the Israeli government and Palestinian Authority have banned Al Jazeera from reporting from inside Israel and the occupied West Bank. It will take the forensic teams in Israel several hours before they can determine the identity of the remains handed over to the Red Cross by Hamas, reportedly containing the remains of Shiri Bibas. The initial confusion happened after four coffins were turned over to the Red Cross and then going down to Israel... authorities. They were supposed to have the remains of Sheri Bibas, her two children, and another Israeli captive. Upon examination, that did not turn out to be the case. There was apparently a mix-up, and according to Palestinian groups, that probably happened after the Israeli bombardment of the site in which they were held. Israeli and Palestinian families are looking forward to Saturday morning, when the largest exchange of Israeli captives and Palestinian prisoners and detainees will happen. Six living Israeli captives will be released on Saturday in exchange for hundreds of Palestinians, mostly in Gaza, but many also to the occupied West Bank and to exile. After this release is concluded, there will be four remaining bodies of Israeli captives, and that would conclude phase one of the ceasefire agreement, which ends on March the 1st. Nuradi Al-Jazeera, Amman. Those developments come hours after Hamas revealed the names of six
+
+
+## 3. Hamas Announces Captives for Release
+
+start: 2025-02-22 04:02:42.680, duration: 30.96
+
+- **Summary:** Hamas announces six living Israeli captives who will be released from Gaza. They are all men, and some were held captive for nearly a decade. In exchange, Israel will release over six hundred Palestinian prisoners.
+- **Key persons:** []
+- **Summary (ru):** Речь идет об освобождении израильских пленных из Газы в обмен на освобождение палестинских заключенных Израилем. Освобожденные израильтяне будут переданы Красному Кресту для медицинского осмотра и воссоединения с семьями.
+
+### Processed text
+
+Living Israeli captives to be released from Gaza on Saturday. They're all men and at least two were held in the Strip for nearly a decade. They'll all be handed over to the Red Cross before being taken back to Israel for medical checks and finally reunited with their families. In exchange, Israel is expected to release 602 Palestinian prisoners and detainees. Since a ceasefire deal came into place, more than 1,000 Palestinians have been reunited with their families in Gaza and the occupied West Bank. Some have been deported.
+
+
+## 4. Trump's Gaza Takeover Plan
+
+start: 2025-02-22 04:03:13.640, duration: 35.58
+
+- **Summary:** US President Donald Trump clarifies that his plan to take over Gaza is only a recommendation and not a mandate, following a meeting with Arab leaders in Saudi Arabia where they discussed the future of Gaza.
+- **Key persons:** ['Donald Trump (US President)']
+- **Summary (ru):** Президент США Дональд Трамп заявил, что его спорный план по захвату сектора Газа является лишь рекомендацией и не будет навязываться. Это заявление прозвучало после встречи арабских лидеров в Саудовской Аравии, где обсуждалось будущее Газы.
+
+### Processed text
+
+US President Donald Trump says his controversial plan to take over Gaza is only a recommendation and that he will not force it. Trump had previously suggested the entire Palestinian population of the Strip should be forcibly removed and resettled elsewhere. His apparent reversal comes after a meeting of Arab leaders in Saudi Arabia, in which the future of Gaza was discussed. Leaders from Egypt, Qatar, Jordan, the United Arab Emirates and Kuwait were attending the informal meeting where, according to the Saudi state news agency, they discussed efforts to support the Palestinian cause.
+
+
+## 5. UN Condemns Rwanda's Support of M23
+
+start: 2025-02-22 04:03:51.620, duration: 19.78
+
+- **Summary:** The UN Security Council condemns Rwanda's support of M23 fighters in the Democratic Republic of Congo. UN experts report 4,000 Rwandan soldiers are supporting the group.
+- **Key persons:** []
+- **Summary (ru):** Совет Безопасности ООН впервые осудил поддержку Руандой боевиков M23 в Демократической Республике Конго. Он призвал Кигали немедленно вывести войска и прекратить поддержку M23, поскольку эксперты ООН сообщают о 4000 руандийских солдат, поддерживающих эту группировку.
+
+### Processed text
+
+The UN Security Council has condemned Rwanda's backing of M23 fighters in a Democratic report.
+He called on Kigali to immediately withdraw troops and support 4M23.
+UN experts say 4,000 Rwandan soldiers are supporting the group, which has seized swathes of territory in the eastern DRC in recent weeks.
+
+
+## 6. Ugandan Opposition Figure Charged with Treason
+
+start: 2025-02-22 04:04:13.780, duration: 21.8
+
+- **Summary:** Ugandan opposition figure Kisa Bessiege is charged with treason for allegedly plotting to overthrow the government. He is a critic of President Iwery Usovini and faces the death penalty if found guilty.
+- **Key persons:** ['Kisa Bessiege (Ugandan opposition figure)', 'Iwery Usovini (President of Uganda)']
+- **Summary (ru):** Ведущий деятель угандийской оппозиции Киса Бессиге обвиняется в государственной измене. Ему грозит смертная казнь за предполагаемый заговор с целью свержения правительства. Бессиге, давний критик президента Усовини, объявил голодовку в знак протеста против своего задержания.
+
+### Processed text
+
+Leading Ugandan opposition figure Kisa Bessiege has been charged with treason.
+He is accused of orchestrating a plot to overthrow the government and could face the
+death penalty if found guilty.
+Bessiege is a long-time critic of President Iwery Usovini.
+He will remain in custody until his next court appearance on 7 March.
+The 68-year-old has gone on hunger strike to protest his detention.
+
+
+## 7. Protests in Slovakia
+
+start: 2025-02-22 04:04:39.220, duration: 27.52
+
+- **Summary:** Thousands rally in Slovakia calling for Prime Minister Robert Fitsow's resignation, protesting his pro-Moscow policies. The protests also marked the anniversary of a journalist's murder which led to Fitsow's previous resignation.
+- **Key persons:** ['Robert Fitsow (Prime Minister of Slovakia)']
+- **Summary (ru):** В Словакии прошли массовые митинги с требованием отставки премьер-министра Роберта Фицо из-за его про-московской политики. Протесты также были приурочены к седьмой годовщине убийства журналиста-расследователя, что уже приводило к отставке Фицо.
+
+### Processed text
+
+And thousands of people have rallied across Slovakia to call for Prime Minister Robert Fitsow to resign.
+Demonstrators have been staging regular protests against the four-time leader's pro-Moscow policies.
+Friday's rallies also marked seven years since the murder of an investigative journalist.
+His killing sparked mass protests, which led to Fitsow's resignation as Prime Minister at the time.
+Those are the headlines.
+The news continues.
+
+
+## 8. The Khaled El Masri Case - Part 1
+
+start: 2025-02-22 04:05:07.000, duration: 1400.0
+
+- **Summary:** A preview/recap of the Khaled El Masri Case. The preview talks about his abduction, torture, and release, as well as his struggles for justice and the German goverments' involvement.
+- **Key persons:** ['Khaled El Masri', 'Manfred Gnidic (Lawyer)']
+- **Summary (ru):** В 2004 году Халед Эль-Масри был арестован во время поездки в Македонию, допрошен и подвергнут жестокому обращению. Через пять месяцев его освободили в лесу в Албании. Этот случай раскрыл тайную американскую систему пыток и тюрем, и Эль-Масри тщетно боролся за объяснения и справедливость.
+
+### Processed text
+
+and Al Jazeera after the El Masri case.
+Stay with us.
+In 2004, Khaled El Masri is arrested during a trip to Macedonia.
+He is interrogated and mistreated.
+Nobody knows his whereabouts.
+Five months later, he is released in a forest in Albania.
+They turned me in a certain direction so that I didn't see the transports.
+And he showed me with my fingers that I should not look back to the back.
+I should go back to the road.
+The Khaled El Masri case basically revealed the entire underbelly of the scene.
+a secret American torture and prison system.
+Khaled El Masri made international headlines.
+For years he fought in vain for explanations and justice.
+He felt abandoned by his own government.
+Khaled El Masri used to live in the area of Ulm.
+Qhalle del Masri used to live in the area of Ulm.
+I have known him since 2007.
+Even then I wanted to make a film about him.
+But then his case took a bizarre turn.
+Years after the kidnapping, he committed several disturbing crimes
+and in 2009 beat up the mayor of Neu-Ulm.
+How did it come to this?
+One who was probably most deeply involved in this story
+was the lawyer Manfred Gnidic from Ulm.
+He first met Khaled El Masri in 2004.
+Then there were two men in front of the Kanzlei, long-haired,
+and one had even a long neck neck and said to me,
+what do they want from me?
+Then we came to the room and then it was explained to me,
+what should actually be said.
+Then he started to tell and said that he was taken away from the Americans,
+and everything.
+Hey, hey, hey, why are you talking about me?
+Also, what do you want from me?
+And then he showed me his pass.
+And his story was,
+he was from Germany to Macedonia.
+And then it was actually so,
+that he had an Einreisestempel to go to Macedonia,
+but not an Ausreisestempel.
+I was like,
+it was also like the king of France.
+And he was very confused.
+And he did not know that he would pick him down.
+I was like,
+you know,
+I don't know.
+What do I want from you?
+Because when I was getting back into town,
+I had to say,
+I had to say,
+and he took him down.
+But I had to say,
+at the top,
+I said he was,
+he made it so beyond me.
+And then he had a trip from Albania.
+How?
+God, he came from Macedonia to Albania.
+And then came to the idea,
+if this is a Räuber-Pistole,
+then he has to do that.
+With such stories,
+but it is true.
+At about the same time as Manfred Gnidic,
+the New York Times became aware of the case.
+Suat McKennett had just started working there.
+She was still living in Germany at that time.
+So, the journalist who Suat McKennett
+asked me, who is there?
+Yes, but who are they?
+And the answer is,
+but I asked them to ask her,
+who is there?
+And the answer is,
+who is there?
+Who is there?
+Who is there?
+Who is there?
+Who is there?
+Who is there?
+My name is Khaled al-Masri, I'm from the CIA entführt.
+It was the mix of his voice, his voice.
+However, I also knew that this is a very big story,
+it's a very big story against the CIA.
+That's a direct attack against the U.S.
+And that was for me too big.
+But I also wanted to know, who is this man?
+Who is Khaled al-Masri?
+And why should the CIA entführt him?
+The 9-11 attack of 2001 shocked the Western world.
+The U.S. was determined to use all its power to fight back
+and had the backing of its allies.
+I have the American President, George Bush,
+the uninscredited Solidarity of Germany.
+The U.S. was given.
+The U.S. was given.
+The U.S. was given.
+The U.S. was given.
+Khaled is from Lebanon. When the civil war began in 1975, he was 12 years old.
+Ten years later, he managed to flee to Germany.
+In 1994, Khaled became a German citizen. He wanted to build up something in the country
+that had granted him asylum. He tried to trade cars. In 1996, he got married.
+In 2002, he moved to a village near Ulm. At the time, he lived with his wife and children
+in a 30-square-meter basement.
+At the end of 2003, there were problems at home. Khaled decided to take some time off.
+He booked the cheapest ticket he could find, a bus trip to Macedonia for about 150 euros.
+At the Serbian-Macedonian border, something bizarre happened. He had to leave the
+to leave the
+to leave the
+to leave the
+to leave the
+Bus. Hours later, he was taken to a hotel in Skopje.
+Im Hotelzimmer, ich glaube, das war im vierten Stock, nehme ich an.
+Drei Männer sind bei mir im Zimmer geblieben.
+Dann habe ich sie gefragt, ob ich verhaftet bin.
+Ich habe gesagt, sehen Sie irgendwo ein Schellen oder irgendwas?
+Und dann sind wir dort geblieben, ungefähr 30 Tage im Hotel festgehalten.
+Ich durfte nicht telefonieren oder irgendwelche Kontakte irgendwohin.
+Und ich wusste nicht, warum oder was die wollen.
+Dann habe ich gesagt, okay, dann will ich Kontakt zur Deutschen Botschaft.
+Dann hat er gesagt, aber die Deutschen wollen mit Ihnen nicht sprechen.
+Und behauptet, es sei ein Ägypter und mein Pass sei gefälscht.
+Irgendwann war ich wütend, bin ich aufgestanden und sagte, jetzt gehe ich.
+Und dann sind die in Stellung gegangen in dem Raum und haben ihre Waffen gezogen.
+Es soll...
+or they will shoot.
+And the situation was really serious,
+as I saw it.
+Then I went back to the bed.
+A few days later,
+they said to me,
+I'm going back to Germany.
+Then they opened my eyes
+and opened my eyes.
+They opened my eyes and opened my eyes.
+And then there was still a sack.
+Im Flughafen hörte ich die Stimme von einem Assistent.
+Jetzt werden sie in einen Nebenraum gebracht.
+Dort werden sie ärztlich untersucht.
+Dann gehen die Tiere zu.
+Und dann bekomme ich Schläge von allen Seiten.
+Irgendeine scharfe Gegenstände haben mich entgleitet.
+Also meine Klamotten ganz weggemacht.
+Ich war ganz nackt.
+Und dann wurde ich in andere Kleidung.
+So Sportanzug, Windeln und so weiter.
+Und im Flugzeug haben die mich auf den Boden geworfen.
+Und irgendwann bekam ich Spritze in der Schulter.
+Und dann war ich weg.
+Die Polizei erst lernen über die Abduktion in June 2004.
+About two weeks after El Masri's return.
+Sie checkten die Geschichte step-by-step.
+Und haben sogar eine Haare-Analysis gemacht.
+Ende
+Im Tour
+3
+2
+м
+On the basis of the Nahrungsmangel,
+there was also a hunger strike,
+or something to eat, or something to drink,
+because that's all about Eigenheiten,
+there could also be the Aussage of the Aufenthalts
+with the räumlichen order.
+If it was a Räuberpistole, we would have had the rules for this, but we didn't have it,
+because we went out of it, that the story is overall stimmig and trustworthy.
+The police have worked super well, especially the police, and that worked very well.
+All of a sudden it was still, there was nothing happened.
+Then I had a conversation with the Staatsanwalt, and he said to me,
+hmm, I think that is not so expected.
+What is that?
+What is that?
+I started a little bit.
+What is that?
+I think it is a very interesting question.
+What is that?
+What is that?
+What is that?
+What is that?
+to understand, that it is overplayed politically.
+After months of research by Stuart McKennett,
+the New York Times finally decided to publish the story.
+As colleagues in the magazine,
+also officially by the CIA,
+he said,
+that the story didn't happen.
+It was terrifying.
+It was a huge pressure.
+And then she came.
+The story came out,
+the first page of the New York Times,
+and of course,
+it was like something else.
+It was a huge pressure,
+because the first hours,
+when the story came out,
+I really sat on the phone and on the screen,
+and waited for the CIA
+or the US government to say,
+the New York Times is lying.
+That didn't happen.
+Bring me,
+watch out.
+I was working at the German television show Panorama, and when the story came out in the
+New York Times that Sue McKenna had done about the kidnapping, I remember feeling shameful
+that here was a case of a CIA kidnapping of a German citizen.
+And you know, you have to ask yourself, why do we even exist?
+In 2005, journalists discovered the flight routes of CIA jets and thus also the El Masri
+flight to Afghanistan.
+The Spanish police were able to ascertain the camouflage names of the CIA hijackers who
+had made a stopover in Mallorca.
+With this information, John Goetz scored a coup.
+He identified the addresses of the CIA abductors in the United States.
+Good morning.
+Wir möchten Sie nach der Entführung von Khaled Al Masri fragen.
+Ich bin John Goetz vom Deutschen Fernsehen.
+Wissen Sie, wovon ich rede?
+Sir?
+Sir?
+We wanted to talk about the...
+Was sagen Sie zum Kidnapping von Khaled al-Masri in Mazedonien?
+The involvement of the CIA was already known by journalist Alexander Bozhinowski in early 2004, shortly after the abduction.
+On the FBI list of most wanted people tied with the 9-11 attacks, however, Khaled al-Masri they're looking for was a Spanish citizen, and this Khaled al-Masri with the same name, same surname, is a German citizen.
+So he arrives in a Tabanovce border, Macedonian-Serbian border.
+A policeman decided to move it to Skopje in the hotel Skopski Merak.
+That's a hotel who was placed just behind the U.S. Embassy,
+the old place of the U.S. Embassy in Skopje.
+They didn't wait any information from Lyon, France, seat of Interpol,
+to find out if the passport is genuine or not.
+Instead, they informed the U.S. Embassy in Skopje,
+and they informed, I guess, Washington or their superiors over there,
+who sent the airplane to take muscle.
+My source was an officer in the military intelligence.
+I think that they told me because they're too excited.
+They believe they have captured very big fish.
+They become internationally famous by capturing one of the organizers of 9-11 attacks.
+It was just too big thing to keep quiet.
+Irgendwann habe ich gespürt wie eine Landung.
+Und dann haben die mich in einem Kofferraum geworfen
+und sind ungefähr 10 oder eine Viertelstunde gefahren mit dem Auto.
+Und dann haben die mich ins Gefängnis.
+Ich werde mich ins Gefängnis mit beschäftigen,
+indem ich mich ins Gefängnis вижу Interesting,
+sondern heute sind nur meine Firma 서울,
+ich will mir die in eine Viertelstunde,
+mir Vlog lagen auf jeden Fallensaft,
+und dann ist die Idee blege helfen,
+dass wir in den Aven Songs nicht finden,
+dass wir dein�
+Vorsicht haben.
+That was under the earth, also in the Keller.
+And they had me left and left to the wall.
+And there were a lot of creatures.
+And then I saw,
+that there was somewhere in a trashy room.
+And it stinks like a cow.
+I was very thirsty in this time.
+And from the loch of the cell,
+there was one that looked at me
+with an afghanistan.
+Then I told him,
+that I would drink.
+Then he told me,
+that I had a plastic flashe
+that I should drink from there.
+Then I told him,
+that the water is not clean.
+Then he told me,
+that either you don't get it or you don't get it.
+Then he told me,
+that because he was like,
+that I don't know how to do it.
+And he's like,
+you know the other way.
+I don't think so.
+I can't believe it.
+And I'm like,
+that's what I want.
+I don't think so.
+I want to know the I don't know how to mix it.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+There were two or three Americans who were not in front of the Mund,
+so normal and civil.
+They knew that I was from Ulm
+and that I was going to the Multikultur house.
+They knew that the car was on me.
+Nobody knew that the car was on me.
+They knew that the American people knew that the car was on me.
+They said that they knew that they knew that they knew that they were not aware of what they were.
+They knew that they were not aware of what they were doing.
+They said,
+that is true.
+They said, you don't come out here anymore.
+Also in 20 Jahren konstruieren nicht raus.
+Da war einer aus Somalia damals.
+Der hat Brüche an den Arm,
+bevor er dort gefoltert wurde.
+Der wurde auch nicht behandelt, ärztlich oder irgendwas.
+Dann haben wir gesagt, okay, wir töten alle in Hungarstadt.
+Wir haben das miteinander ausgemacht.
+Nach ein paar Tagen konnten die anderen nicht mehr.
+Dann haben die aufgehört.
+Dann bin ich geblieben mit dem Hungar-Streik allein durchgezogen.
+In New York in 2005, the human rights organization ACLU became aware of Kallet's case.
+They specialized in tracking the CIA's abduction program.
+Kallet's account of what happened to him was a credible story about United States' involvement and the CIA's involvement specifically in this program of transporting individuals to secret detention and torture.
+Despite the fact that this was the home of his torturers, Kallet nonetheless got on the plane with Manfred, his lawyer.
+We're going to win, we're going to win.
+But the trip is less successful than anticipated.
+The courts refuse to accept Khaled El Masri's case for reasons of national security.
+At least he can testify in the courts.
+The courts refuse to accept Khaled El Masri's case for reasons of national security.
+At least he can't testify in the courts.
+At least, he can't testify in the country of his abductors.
+I'm so proud to be able to introduce my client, Khaled El Masri.
+What I really want is that they admit to me that an injustice was done to me.
+They've been waiting...
+
+
+## 9. The Beast: Migrant Train through Mexico
+
+start: 2025-02-22 04:28:27.000, duration: 38.4
+
+- **Summary:** A segment covers the dangerous journey of migrants riding cargo trains, known as "The Beast," through Mexico to reach the US border. The report highlights the risks and challenges faced by these migrants.
+- **Key persons:** []
+- **Summary (ru):** В новостном сюжете рассказывается о мигрантах, использующих грузовые поезда, известные как "Зверь", для передвижения по Мексике к границе с США. Несмотря на опасности и препятствия, такие как грабежи и нежелание американского президента их принимать, мигранты продолжают использовать этот способ передвижения.
+
+### Processed text
+
+all night for the beast to come.
+It's a name migrants are given to not one,
+but a network of cargo trains that head through Mexico
+up to the US border.
+They're a free ride north
+and a way to try and avoid Mexican migration.
+Despite the dangers,
+these people want to take it north as soon as possible.
+The trains just stopped them, a bit worried
+because word came up before
+that there were things back there concerned
+that they've stopped the train to try,
+get up with the carriages and take what people have.
+Up ahead, more challenges, an icy North Mexico,
+a US president who doesn't want them,
+but for now, the beast goes on.
+
+
+## 10. Upcoming Programs Preview
+
+start: 2025-02-22 04:29:05.400, duration: 48.8
+
+- **Summary:** Previews several upcoming programs, including "The Bottom Line" discussing US politics, a documentary on Lebanon's Karami political dynasty, and others.
+- **Key persons:** ['Rashid Karami (Former Prime Minister of Lebanon)']
+- **Summary (ru):** Новостной сегмент охватывает широкий круг тем, включая политическую программу Трампа, влияние Ирана на Ближнем Востоке, возможные пути завершения войны между Россией и Украиной и политическую ситуацию в Ливане, в частности, историю семьи Карами.
+
+### Processed text
+
+Trump's agenda includes everything from tax cuts to immigration, but how much is real and how much is bluster? Is Iran's footprint across the Middle East shrinking? The Trump administration is weighing options to end the Russia-Ukraine war, but what does it mean for Europe? A quizzical look at US politics, the bottom line. Lebanon, where political power and dynastic families often intertwine. For over 30 years, Rashid Karami was a major figure and eight times prime minister until his assassination in 1987. Al Jazeera World tells the story of the Karami. division and foreign interference. Lebanon's political families, the Karami dynasty, on Al Jazeera.
+
+
+## 11. Sheikh Hamad Award for Translation
+
+start: 2025-02-22 04:30:17.000, duration: 33.8
+
+- **Summary:** Announcement inviting nominations for the 11th edition of the Sheikh Hamad Award for Translation and International Understanding.
+- **Key persons:** ['Sheikh Hamad']
+- **Summary (ru):** В эфире объявление о начале приема заявок на 11-ю премию шейха Хамада за перевод и международное взаимопонимание. Номинации принимаются с 1 января по 31 марта 2025 года.
+
+### Processed text
+
+Sheikh Hamad Award for Translation and International Understanding is inviting nominations for its 11th edition, starting January 1st and ending March 31st, 2025.
+For more information, please visit the award's official website at www.hta.qa.
+
+
+## 12. The Khaled El Masri Case - Part 2
+
+start: 2025-02-22 04:30:57.000, duration: 1429.98
+
+- **Summary:** The segment continues the in-depth examination of the Khaled El Masri case, including international investigations and the German government's controversial response.
+- **Key persons:** ['Khaled El Masri', 'Dick Marty (Swiss public prosecutor)', 'Otto Schiele (Former Interior Minister of Germany)', 'Daniel Coates (US Ambassador)', 'Manfred Gnidic (Lawyer)']
+- **Summary (ru):** None
+
+### Processed text
+
+None
+
+
+## 13. Al Jazeera Promo: Stories of Resilience
+
+start: 2025-02-22 04:54:47.000, duration: 58.86
+
+- **Summary:** A promotional segment for Al Jazeera highlighting stories of resilience, community, and overcoming adversity.
+- **Key persons:** []
+- **Summary (ru):** Новостной сегмент обсуждает неопределенность будущего и стремление к позитивным изменениям. Подчеркивается важность доверия, ответственности и объединения сообществ для движения вперед.
+
+### Processed text
+
+We're facing a future that we don't understand.
+We can't predict fully.
+Everyone's heart is stressed.
+Nobody knows what will happen.
+I need to stay positive.
+I realized that I need to do more with my life.
+I was like, you know what?
+I don't like myself.
+I want to change who I am.
+I want to be trustworthy.
+I want to be responsible.
+People keep getting inspired through the stories of others.
+Bringing the communities to consciously agree to put the past behind and move forward.
+Because all what we need is being able to move forward.
+And that isn't just a matter of science, that's a matter of what do you think about your fellow human beings.
+Because that is a matter of democracy.
+
+
+## 14. North America Weather Forecast
+
+start: 2025-02-22 04:56:00.580, duration: 74.76
+
+- **Summary:** A weather forecast for North America, predicting a warming trend after a cold spell, with wild weather expected for the Pacific Northwest and wet conditions in the Caribbean.
+- **Key persons:** []
+- **Summary (ru):** В сегменте новостей обсуждается изменение погодных условий в Северной Америке. Ожидается потепление на большей части территории, особенно в южных штатах и центральной Канаде, в то время как на Тихоокеанском Северо-Западе и в западной части Канады прогнозируется ухудшение погоды.
+
+### Processed text
+
+Hello there, let's have a look at the weather across North America where the big freeze is set to ease.
+It's been bitterly cold for much of the country on Friday, but by Saturday we will see a southerly flow of air start to kick its way further north.
+And that's going to pick temperatures up, certainly for those southern states.
+But the warmth will push its way all the way up to more central parts of Canada, so temperatures will be improving.
+There's still some winter weather lingering around the east of Canada, but it's looking much drier, more settled across the east coast of the US.
+With temperatures set to pick up for cities like New York and Washington DC in the days ahead.
+Instead, it is going to look pretty wild for Sunday for the Pacific Northwest, western parts of Canada.
+with...
+You're welcome.
+snow on the higher mountains some heavy rain moving down into northern parts of california
+some heavier rain thanks to storms as well as set to rumble across the southern states we'll see
+some of that rain start to touch into miami on sunday and it's looking wetter across the caribbean
+certainly for western parts of cuba with some heavy rain blowing across the caribbean into the
+yucatan peninsula windy conditions in southern mexico that's your weather
+
+
+## 15. Al Jazeera Documentaries and Programs Preview
+
+start: 2025-02-22 04:57:15.340, duration: 140.66
+
+- **Summary:** Previews of several upcoming documentaries and programs on Al Jazeera, including "The Lost Film of Panama," "The Fans Who Make Football: Celtic," and a report on dance as resistance in the Sahel region.
+- **Key persons:** ['Germaine Akuni (Dancer)']
+- **Summary (ru):** Сегмент рассказывает о двух историях: о найденном фильме, документирующем традиции народа Куна в Панаме, и о международном танцевальном фестивале в Уагадугу, где танцоры, пережившие нападения, превращают свои страдания в движение. Также упоминается Школа Песка, созданная легендарной танцовщицей Жермен Акуни, где танцоры изучают уникальные движения, вдохновленные природой.
+
+### Processed text
+
+a film documenting the traditions of panama's kuna people disappeared for generations emerging five decades later it reveals a culture eroded by change vaguely recalled by its descendants an epic tale unraveling the power of capturing a moment in time and eternalizing it the lost film of panama a witness documentary on al jazeera how does the team from a smaller league draw the bigger crowds why does the irish flag fly highest at a scottish club what is it about celtic that has the world over world over hearing them on. Politics and football goes hand in hand. We'll stand with the oppressed anywhere around the world. Thank you, Celtic! Celtic! The fans who make football on Al Jazeera. At Ouagadougou's International Dance Festival, dancers, some of whom have survived unspeakable attacks from armed groups linked to Al-Qaeda or ISIL, take to the stage, turning their suffering into movement. Every step is an act of resistance. Where the Sahel meets the ocean is the School of Sand, created by 80-year-old legendary dancer Germaine Akuni. There was this whirlwind when the sand... and I understood that I was connected to the world. Dancers from around the world come to master the 64 unique movements she created, each shaped by nature. Some movements are inspired from the snail, and the idea here is to reconnect with nature unto humans. From the edge to the heart of the Sahel, beyond the violence lives a people searching for peace.
+
+
+## 16. Counting the Cost Preview: Trump's Tariff Policies
+
+start: 2025-02-22 04:59:36.000, duration: 21.0
+
+- **Summary:** A preview for "Counting the Cost" examining the potential impacts of Donald Trump's tariff policies on the American economy and global trade.
+- **Key persons:** ['Donald Trump (US President)']
+- **Summary (ru):** В этом выпуске передачи "Подсчет убытков" обсуждается потенциальное влияние тарифной политики Дональда Трампа на американскую промышленность, потребителей и экономику. Анализируется, приведут ли тарифы к увеличению инфляции, выравниванию условий конкуренции или разрушению глобальной торговой системы.
+
+### Processed text
+
+On Counting the Cost, as Donald Trump's tariff policies begin to take shape, we take a look at their potential impact on American industry, consumers, and the economy. Will they increase inflation, level the playing field, or shatter the rules of the global trading system? Counting the Cost on Al Jazeera.
+
+
+## 17. Al Jazeera News Reporting Promo
+
+start: 2025-02-22 04:59:57.000, duration: 31.0
+
+- **Summary:** Promotional segment highlighting Al Jazeera's commitment to reporting on the human impact of conflict and giving voice to those demanding freedom and the rule of law.
+- **Key persons:** []
+- **Summary (ru):** В новостном сегменте подчеркивается важность освещения человеческих страданий и последствий войны, а не только политики конфликта. Журналисты подвергают себя опасности, освещая события в неспокойных регионах и давая голос тем, кто требует свободы и законности.
+
+### Processed text
+
+We don't simply focus on the politics of the conflict.
+It's the consequence of war,
+the human suffering that we report on.
+We brave bullets and bombs
+in some of the world's most troubled regions.
+The army fled in the face of ISIL's advance.
+It is one of the most serious bouts of violence in recent years.
+In some instances, we are the targets
+because we give voice to those demanding freedom,
+the rule of law,
+and we always include the views from all.
